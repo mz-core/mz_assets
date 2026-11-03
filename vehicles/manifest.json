@@ -1,0 +1,6896 @@
+{
+  "createdAt": "2026-03-23T02:19:22.928Z",
+  "totalFound": 861,
+  "totalDownloaded": 861,
+  "totalFailed": 0,
+  "vehicles": [
+    {
+      "displayName": "Asbo",
+      "hash": "1118611807",
+      "model": "asbo",
+      "imageUrl": "https://docs.fivem.net/vehicles/asbo.webp",
+      "file": "asbo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Blista",
+      "hash": "3950024287",
+      "model": "blista",
+      "imageUrl": "https://docs.fivem.net/vehicles/blista.webp",
+      "file": "blista.png",
+      "ok": true
+    },
+    {
+      "displayName": "Brioso R/A",
+      "hash": "1549126457",
+      "model": "brioso",
+      "imageUrl": "https://docs.fivem.net/vehicles/brioso.webp",
+      "file": "brioso.png",
+      "ok": true
+    },
+    {
+      "displayName": "Brioso 300",
+      "hash": "1429622905",
+      "model": "brioso2",
+      "imageUrl": "https://docs.fivem.net/vehicles/brioso2.webp",
+      "file": "brioso2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Brioso 300 Widebody",
+      "hash": "15214558",
+      "model": "brioso3",
+      "imageUrl": "https://docs.fivem.net/vehicles/brioso3.webp",
+      "file": "brioso3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Club",
+      "hash": "2196012677",
+      "model": "club",
+      "imageUrl": "https://docs.fivem.net/vehicles/club.webp",
+      "file": "club.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dilettante",
+      "hash": "3164157193",
+      "model": "dilettante",
+      "imageUrl": "https://docs.fivem.net/vehicles/dilettante.webp",
+      "file": "dilettante.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dilettante",
+      "hash": "1682114128",
+      "model": "dilettante2",
+      "imageUrl": "https://docs.fivem.net/vehicles/dilettante2.webp",
+      "file": "dilettante2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Issi",
+      "hash": "3117103977",
+      "model": "issi2",
+      "imageUrl": "https://docs.fivem.net/vehicles/issi2.webp",
+      "file": "issi2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Issi Classic",
+      "hash": "931280609",
+      "model": "issi3",
+      "imageUrl": "https://docs.fivem.net/vehicles/issi3.webp",
+      "file": "issi3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Issi",
+      "hash": "628003514",
+      "model": "issi4",
+      "imageUrl": "https://docs.fivem.net/vehicles/issi4.webp",
+      "file": "issi4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Issi",
+      "hash": "1537277726",
+      "model": "issi5",
+      "imageUrl": "https://docs.fivem.net/vehicles/issi5.webp",
+      "file": "issi5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Issi",
+      "hash": "1239571361",
+      "model": "issi6",
+      "imageUrl": "https://docs.fivem.net/vehicles/issi6.webp",
+      "file": "issi6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Blista Kanjo",
+      "hash": "409049982",
+      "model": "kanjo",
+      "imageUrl": "https://docs.fivem.net/vehicles/kanjo.webp",
+      "file": "kanjo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Panto",
+      "hash": "3863274624",
+      "model": "panto",
+      "imageUrl": "https://docs.fivem.net/vehicles/panto.webp",
+      "file": "panto.png",
+      "ok": true
+    },
+    {
+      "displayName": "Prairie",
+      "hash": "2844316578",
+      "model": "prairie",
+      "imageUrl": "https://docs.fivem.net/vehicles/prairie.webp",
+      "file": "prairie.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rhapsody",
+      "hash": "841808271",
+      "model": "rhapsody",
+      "imageUrl": "https://docs.fivem.net/vehicles/rhapsody.webp",
+      "file": "rhapsody.png",
+      "ok": true
+    },
+    {
+      "displayName": "Weevil",
+      "hash": "1644055914",
+      "model": "weevil",
+      "imageUrl": "https://docs.fivem.net/vehicles/weevil.webp",
+      "file": "weevil.png",
+      "ok": true
+    },
+    {
+      "displayName": "Asea",
+      "hash": "2485144969",
+      "model": "asea",
+      "imageUrl": "https://docs.fivem.net/vehicles/asea.webp",
+      "file": "asea.png",
+      "ok": true
+    },
+    {
+      "displayName": "Asea",
+      "hash": "2487343317",
+      "model": "asea2",
+      "imageUrl": "https://docs.fivem.net/vehicles/asea2.webp",
+      "file": "asea2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Asterope",
+      "hash": "2391954683",
+      "model": "asterope",
+      "imageUrl": "https://docs.fivem.net/vehicles/asterope.webp",
+      "file": "asterope.png",
+      "ok": true
+    },
+    {
+      "displayName": "Asterope GZ",
+      "hash": "3553846961",
+      "model": "asterope2",
+      "imageUrl": "https://docs.fivem.net/vehicles/asterope2.webp",
+      "file": "asterope2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cinquemila",
+      "hash": "2767531027",
+      "model": "cinquemila",
+      "imageUrl": "https://docs.fivem.net/vehicles/cinquemila.webp",
+      "file": "cinquemila.png",
+      "ok": true
+    },
+    {
+      "displayName": "Chavos V6",
+      "hash": "457814204",
+      "model": "driftchavosv6",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftchavosv6.webp",
+      "file": "driftchavosv6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cognoscenti 55",
+      "hash": "906642318",
+      "model": "cog55",
+      "imageUrl": "https://docs.fivem.net/vehicles/cog55.webp",
+      "file": "cog55.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cognoscenti 55 (Armored)",
+      "hash": "704435172",
+      "model": "cog552",
+      "imageUrl": "https://docs.fivem.net/vehicles/cog552.webp",
+      "file": "cog552.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cognoscenti",
+      "hash": "2264796000",
+      "model": "cognoscenti",
+      "imageUrl": "https://docs.fivem.net/vehicles/cognoscenti.webp",
+      "file": "cognoscenti.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cognoscenti (Armored)",
+      "hash": "3690124666",
+      "model": "cognoscenti2",
+      "imageUrl": "https://docs.fivem.net/vehicles/cognoscenti2.webp",
+      "file": "cognoscenti2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Deity",
+      "hash": "1532171089",
+      "model": "deity",
+      "imageUrl": "https://docs.fivem.net/vehicles/deity.webp",
+      "file": "deity.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hardy",
+      "hash": "1580292663",
+      "model": "hardy",
+      "imageUrl": "https://docs.fivem.net/vehicles/hardy.webp",
+      "file": "hardy.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hardy",
+      "hash": "-401558446",
+      "model": "drifthardy",
+      "imageUrl": "https://docs.fivem.net/vehicles/drifthardy.webp",
+      "file": "drifthardy.png",
+      "ok": true
+    },
+    {
+      "displayName": "Emperor",
+      "hash": "3609690755",
+      "model": "emperor",
+      "imageUrl": "https://docs.fivem.net/vehicles/emperor.webp",
+      "file": "emperor.png",
+      "ok": true
+    },
+    {
+      "displayName": "Emperor",
+      "hash": "2411965148",
+      "model": "emperor2",
+      "imageUrl": "https://docs.fivem.net/vehicles/emperor2.webp",
+      "file": "emperor2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Emperor",
+      "hash": "3053254478",
+      "model": "emperor3",
+      "imageUrl": "https://docs.fivem.net/vehicles/emperor3.webp",
+      "file": "emperor3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Fugitive",
+      "hash": "1909141499",
+      "model": "fugitive",
+      "imageUrl": "https://docs.fivem.net/vehicles/fugitive.webp",
+      "file": "fugitive.png",
+      "ok": true
+    },
+    {
+      "displayName": "Glendale",
+      "hash": "75131841",
+      "model": "glendale",
+      "imageUrl": "https://docs.fivem.net/vehicles/glendale.webp",
+      "file": "glendale.png",
+      "ok": true
+    },
+    {
+      "displayName": "Glendale Custom",
+      "hash": "3381377750",
+      "model": "glendale2",
+      "imageUrl": "https://docs.fivem.net/vehicles/glendale2.webp",
+      "file": "glendale2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Impaler SZ",
+      "hash": "3816328113",
+      "model": "impaler5",
+      "imageUrl": "https://docs.fivem.net/vehicles/impaler5.webp",
+      "file": "impaler5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ingot",
+      "hash": "3005245074",
+      "model": "ingot",
+      "imageUrl": "https://docs.fivem.net/vehicles/ingot.webp",
+      "file": "ingot.png",
+      "ok": true
+    },
+    {
+      "displayName": "Intruder",
+      "hash": "886934177",
+      "model": "intruder",
+      "imageUrl": "https://docs.fivem.net/vehicles/intruder.webp",
+      "file": "intruder.png",
+      "ok": true
+    },
+    {
+      "displayName": "Minimus",
+      "hash": "-1101107018",
+      "model": "minimus",
+      "imageUrl": "https://docs.fivem.net/vehicles/minimus.webp",
+      "file": "minimus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Turreted Limo",
+      "hash": "4180339789",
+      "model": "limo2",
+      "imageUrl": "https://docs.fivem.net/vehicles/limo2.webp",
+      "file": "limo2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Premier",
+      "hash": "2411098011",
+      "model": "premier",
+      "imageUrl": "https://docs.fivem.net/vehicles/premier.webp",
+      "file": "premier.png",
+      "ok": true
+    },
+    {
+      "displayName": "Primo",
+      "hash": "3144368207",
+      "model": "primo",
+      "imageUrl": "https://docs.fivem.net/vehicles/primo.webp",
+      "file": "primo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Primo Custom",
+      "hash": "2254540506",
+      "model": "primo2",
+      "imageUrl": "https://docs.fivem.net/vehicles/primo2.webp",
+      "file": "primo2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Regina",
+      "hash": "4280472072",
+      "model": "regina",
+      "imageUrl": "https://docs.fivem.net/vehicles/regina.webp",
+      "file": "regina.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rhinehart",
+      "hash": "2439462158",
+      "model": "rhinehart",
+      "imageUrl": "https://docs.fivem.net/vehicles/rhinehart.webp",
+      "file": "rhinehart.png",
+      "ok": true
+    },
+    {
+      "displayName": "Romero Hearse",
+      "hash": "627094268",
+      "model": "romero",
+      "imageUrl": "https://docs.fivem.net/vehicles/romero.webp",
+      "file": "romero.png",
+      "ok": true
+    },
+    {
+      "displayName": "Schafter",
+      "hash": "3039514899",
+      "model": "schafter2",
+      "imageUrl": "https://docs.fivem.net/vehicles/schafter2.webp",
+      "file": "schafter2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Schafter V12 (Armored)",
+      "hash": "3406724313",
+      "model": "schafter5",
+      "imageUrl": "https://docs.fivem.net/vehicles/schafter5.webp",
+      "file": "schafter5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Schafter LWB (Armored)",
+      "hash": "1922255844",
+      "model": "schafter6",
+      "imageUrl": "https://docs.fivem.net/vehicles/schafter6.webp",
+      "file": "schafter6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stafford",
+      "hash": "321186144",
+      "model": "stafford",
+      "imageUrl": "https://docs.fivem.net/vehicles/stafford.webp",
+      "file": "stafford.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stanier",
+      "hash": "2817386317",
+      "model": "stanier",
+      "imageUrl": "https://docs.fivem.net/vehicles/stanier.webp",
+      "file": "stanier.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stratum",
+      "hash": "1723137093",
+      "model": "stratum",
+      "imageUrl": "https://docs.fivem.net/vehicles/stratum.webp",
+      "file": "stratum.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stretch",
+      "hash": "2333339779",
+      "model": "stretch",
+      "imageUrl": "https://docs.fivem.net/vehicles/stretch.webp",
+      "file": "stretch.png",
+      "ok": true
+    },
+    {
+      "displayName": "Super Diamond",
+      "hash": "1123216662",
+      "model": "superd",
+      "imageUrl": "https://docs.fivem.net/vehicles/superd.webp",
+      "file": "superd.png",
+      "ok": true
+    },
+    {
+      "displayName": "Surge",
+      "hash": "2400073108",
+      "model": "surge",
+      "imageUrl": "https://docs.fivem.net/vehicles/surge.webp",
+      "file": "surge.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tailgater",
+      "hash": "3286105550",
+      "model": "tailgater",
+      "imageUrl": "https://docs.fivem.net/vehicles/tailgater.webp",
+      "file": "tailgater.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tailgater S",
+      "hash": "3050505892",
+      "model": "tailgater2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tailgater2.webp",
+      "file": "tailgater2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Warrener",
+      "hash": "1373123368",
+      "model": "warrener",
+      "imageUrl": "https://docs.fivem.net/vehicles/warrener.webp",
+      "file": "warrener.png",
+      "ok": true
+    },
+    {
+      "displayName": "Warrener HKR",
+      "hash": "579912970",
+      "model": "warrener2",
+      "imageUrl": "https://docs.fivem.net/vehicles/warrener2.webp",
+      "file": "warrener2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Washington",
+      "hash": "1777363799",
+      "model": "washington",
+      "imageUrl": "https://docs.fivem.net/vehicles/washington.webp",
+      "file": "washington.png",
+      "ok": true
+    },
+    {
+      "displayName": "Aleutian",
+      "hash": "4256087847",
+      "model": "aleutian",
+      "imageUrl": "https://docs.fivem.net/vehicles/aleutian.webp",
+      "file": "aleutian.png",
+      "ok": true
+    },
+    {
+      "displayName": "Astron",
+      "hash": "629969764",
+      "model": "astron",
+      "imageUrl": "https://docs.fivem.net/vehicles/astron.webp",
+      "file": "astron.png",
+      "ok": true
+    },
+    {
+      "displayName": "Baller",
+      "hash": "3486135912",
+      "model": "baller",
+      "imageUrl": "https://docs.fivem.net/vehicles/baller.webp",
+      "file": "baller.png",
+      "ok": true
+    },
+    {
+      "displayName": "Baller",
+      "hash": "142944341",
+      "model": "baller2",
+      "imageUrl": "https://docs.fivem.net/vehicles/baller2.webp",
+      "file": "baller2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Baller LE",
+      "hash": "1878062887",
+      "model": "baller3",
+      "imageUrl": "https://docs.fivem.net/vehicles/baller3.webp",
+      "file": "baller3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Baller LE LWB",
+      "hash": "634118882",
+      "model": "baller4",
+      "imageUrl": "https://docs.fivem.net/vehicles/baller4.webp",
+      "file": "baller4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Baller LE (Armored)",
+      "hash": "470404958",
+      "model": "baller5",
+      "imageUrl": "https://docs.fivem.net/vehicles/baller5.webp",
+      "file": "baller5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Baller LE LWB (Armored)",
+      "hash": "666166960",
+      "model": "baller6",
+      "imageUrl": "https://docs.fivem.net/vehicles/baller6.webp",
+      "file": "baller6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Baller ST",
+      "hash": "359875117",
+      "model": "baller7",
+      "imageUrl": "https://docs.fivem.net/vehicles/baller7.webp",
+      "file": "baller7.png",
+      "ok": true
+    },
+    {
+      "displayName": "Baller ST-D",
+      "hash": "3431608412",
+      "model": "baller8",
+      "imageUrl": "https://docs.fivem.net/vehicles/baller8.webp",
+      "file": "baller8.png",
+      "ok": true
+    },
+    {
+      "displayName": "BeeJay XL",
+      "hash": "850565707",
+      "model": "bjxl",
+      "imageUrl": "https://docs.fivem.net/vehicles/bjxl.webp",
+      "file": "bjxl.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cavalcade",
+      "hash": "2006918058",
+      "model": "cavalcade",
+      "imageUrl": "https://docs.fivem.net/vehicles/cavalcade.webp",
+      "file": "cavalcade.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cavalcade",
+      "hash": "3505073125",
+      "model": "cavalcade2",
+      "imageUrl": "https://docs.fivem.net/vehicles/cavalcade2.webp",
+      "file": "cavalcade2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cavalcade XL",
+      "hash": "3265236814",
+      "model": "cavalcade3",
+      "imageUrl": "https://docs.fivem.net/vehicles/cavalcade3.webp",
+      "file": "cavalcade3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Contender",
+      "hash": "683047626",
+      "model": "contender",
+      "imageUrl": "https://docs.fivem.net/vehicles/contender.webp",
+      "file": "contender.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dorado",
+      "hash": "3526923154",
+      "model": "dorado",
+      "imageUrl": "https://docs.fivem.net/vehicles/dorado.webp",
+      "file": "dorado.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dubsta",
+      "hash": "1177543287",
+      "model": "dubsta",
+      "imageUrl": "https://docs.fivem.net/vehicles/dubsta.webp",
+      "file": "dubsta.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dubsta",
+      "hash": "3900892662",
+      "model": "dubsta2",
+      "imageUrl": "https://docs.fivem.net/vehicles/dubsta2.webp",
+      "file": "dubsta2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Everon RS",
+      "hash": "554408685",
+      "model": "everon3",
+      "imageUrl": "https://docs.fivem.net/vehicles/everon3.webp",
+      "file": "everon3.png",
+      "ok": true
+    },
+    {
+      "displayName": "FQ 2",
+      "hash": "3157435195",
+      "model": "fq2",
+      "imageUrl": "https://docs.fivem.net/vehicles/fq2.webp",
+      "file": "fq2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Granger",
+      "hash": "2519238556",
+      "model": "granger",
+      "imageUrl": "https://docs.fivem.net/vehicles/granger.webp",
+      "file": "granger.png",
+      "ok": true
+    },
+    {
+      "displayName": "Granger 3600LX",
+      "hash": "4033620423",
+      "model": "granger2",
+      "imageUrl": "https://docs.fivem.net/vehicles/granger2.webp",
+      "file": "granger2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gresley",
+      "hash": "2751205197",
+      "model": "gresley",
+      "imageUrl": "https://docs.fivem.net/vehicles/gresley.webp",
+      "file": "gresley.png",
+      "ok": true
+    },
+    {
+      "displayName": "Habanero",
+      "hash": "884422927",
+      "model": "habanero",
+      "imageUrl": "https://docs.fivem.net/vehicles/habanero.webp",
+      "file": "habanero.png",
+      "ok": true
+    },
+    {
+      "displayName": "Huntley S",
+      "hash": "486987393",
+      "model": "huntley",
+      "imageUrl": "https://docs.fivem.net/vehicles/huntley.webp",
+      "file": "huntley.png",
+      "ok": true
+    },
+    {
+      "displayName": "Issi Rally",
+      "hash": "1550581940",
+      "model": "issi8",
+      "imageUrl": "https://docs.fivem.net/vehicles/issi8.webp",
+      "file": "issi8.png",
+      "ok": true
+    },
+    {
+      "displayName": "I-Wagen",
+      "hash": "662793086",
+      "model": "iwagen",
+      "imageUrl": "https://docs.fivem.net/vehicles/iwagen.webp",
+      "file": "iwagen.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jubilee",
+      "hash": "461465043",
+      "model": "jubilee",
+      "imageUrl": "https://docs.fivem.net/vehicles/jubilee.webp",
+      "file": "jubilee.png",
+      "ok": true
+    },
+    {
+      "displayName": "Landstalker",
+      "hash": "1269098716",
+      "model": "landstalker",
+      "imageUrl": "https://docs.fivem.net/vehicles/landstalker.webp",
+      "file": "landstalker.png",
+      "ok": true
+    },
+    {
+      "displayName": "Landstalker XL",
+      "hash": "3456868130",
+      "model": "landstalker2",
+      "imageUrl": "https://docs.fivem.net/vehicles/landstalker2.webp",
+      "file": "landstalker2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mesa",
+      "hash": "914654722",
+      "model": "mesa",
+      "imageUrl": "https://docs.fivem.net/vehicles/mesa.webp",
+      "file": "mesa.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mesa",
+      "hash": "3546958660",
+      "model": "mesa2",
+      "imageUrl": "https://docs.fivem.net/vehicles/mesa2.webp",
+      "file": "mesa2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Novak",
+      "hash": "2465530446",
+      "model": "novak",
+      "imageUrl": "https://docs.fivem.net/vehicles/novak.webp",
+      "file": "novak.png",
+      "ok": true
+    },
+    {
+      "displayName": "Patriot",
+      "hash": "3486509883",
+      "model": "patriot",
+      "imageUrl": "https://docs.fivem.net/vehicles/patriot.webp",
+      "file": "patriot.png",
+      "ok": true
+    },
+    {
+      "displayName": "Patriot Stretch",
+      "hash": "3874056184",
+      "model": "patriot2",
+      "imageUrl": "https://docs.fivem.net/vehicles/patriot2.webp",
+      "file": "patriot2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Radius",
+      "hash": "2643899483",
+      "model": "radi",
+      "imageUrl": "https://docs.fivem.net/vehicles/radi.webp",
+      "file": "radi.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rebla GTS",
+      "hash": "83136452",
+      "model": "rebla",
+      "imageUrl": "https://docs.fivem.net/vehicles/rebla.webp",
+      "file": "rebla.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rocoto",
+      "hash": "2136773105",
+      "model": "rocoto",
+      "imageUrl": "https://docs.fivem.net/vehicles/rocoto.webp",
+      "file": "rocoto.png",
+      "ok": true
+    },
+    {
+      "displayName": "Seminole",
+      "hash": "1221512915",
+      "model": "seminole",
+      "imageUrl": "https://docs.fivem.net/vehicles/seminole.webp",
+      "file": "seminole.png",
+      "ok": true
+    },
+    {
+      "displayName": "Seminole Frontier",
+      "hash": "2484160806",
+      "model": "seminole2",
+      "imageUrl": "https://docs.fivem.net/vehicles/seminole2.webp",
+      "file": "seminole2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Serrano",
+      "hash": "1337041428",
+      "model": "serrano",
+      "imageUrl": "https://docs.fivem.net/vehicles/serrano.webp",
+      "file": "serrano.png",
+      "ok": true
+    },
+    {
+      "displayName": "Squaddie",
+      "hash": "4192631813",
+      "model": "squaddie",
+      "imageUrl": "https://docs.fivem.net/vehicles/squaddie.webp",
+      "file": "squaddie.png",
+      "ok": true
+    },
+    {
+      "displayName": "Toros",
+      "hash": "3126015148",
+      "model": "toros",
+      "imageUrl": "https://docs.fivem.net/vehicles/toros.webp",
+      "file": "toros.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vivanite",
+      "hash": "2922168362",
+      "model": "vivanite",
+      "imageUrl": "https://docs.fivem.net/vehicles/vivanite.webp",
+      "file": "vivanite.png",
+      "ok": true
+    },
+    {
+      "displayName": "Woodlander",
+      "hash": "1966698497",
+      "model": "woodlander",
+      "imageUrl": "https://docs.fivem.net/vehicles/woodlander.webp",
+      "file": "woodlander.png",
+      "ok": true
+    },
+    {
+      "displayName": "XLS",
+      "hash": "1203490606",
+      "model": "xls",
+      "imageUrl": "https://docs.fivem.net/vehicles/xls.webp",
+      "file": "xls.png",
+      "ok": true
+    },
+    {
+      "displayName": "XLS (Armored)",
+      "hash": "3862958888",
+      "model": "xls2",
+      "imageUrl": "https://docs.fivem.net/vehicles/xls2.webp",
+      "file": "xls2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cognoscenti Cabrio",
+      "hash": "330661258",
+      "model": "cogcabrio",
+      "imageUrl": "https://docs.fivem.net/vehicles/cogcabrio.webp",
+      "file": "cogcabrio.png",
+      "ok": true
+    },
+    {
+      "displayName": "FR36",
+      "hash": "2815031719",
+      "model": "driftfr36",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftfr36.webp",
+      "file": "driftfr36.png",
+      "ok": true
+    },
+    {
+      "displayName": "Exemplar",
+      "hash": "4289813342",
+      "model": "exemplar",
+      "imageUrl": "https://docs.fivem.net/vehicles/exemplar.webp",
+      "file": "exemplar.png",
+      "ok": true
+    },
+    {
+      "displayName": "F620",
+      "hash": "3703357000",
+      "model": "f620",
+      "imageUrl": "https://docs.fivem.net/vehicles/f620.webp",
+      "file": "f620.png",
+      "ok": true
+    },
+    {
+      "displayName": "Felon",
+      "hash": "3903372712",
+      "model": "felon",
+      "imageUrl": "https://docs.fivem.net/vehicles/felon.webp",
+      "file": "felon.png",
+      "ok": true
+    },
+    {
+      "displayName": "Felon GT",
+      "hash": "4205676014",
+      "model": "felon2",
+      "imageUrl": "https://docs.fivem.net/vehicles/felon2.webp",
+      "file": "felon2.png",
+      "ok": true
+    },
+    {
+      "displayName": "FR36",
+      "hash": "3829141989",
+      "model": "fr36",
+      "imageUrl": "https://docs.fivem.net/vehicles/fr36.webp",
+      "file": "fr36.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jackal",
+      "hash": "3670438162",
+      "model": "jackal",
+      "imageUrl": "https://docs.fivem.net/vehicles/jackal.webp",
+      "file": "jackal.png",
+      "ok": true
+    },
+    {
+      "displayName": "Kanjo SJ",
+      "hash": "4230891418",
+      "model": "kanjosj",
+      "imageUrl": "https://docs.fivem.net/vehicles/kanjosj.webp",
+      "file": "kanjosj.png",
+      "ok": true
+    },
+    {
+      "displayName": "Oracle XS",
+      "hash": "1348744438",
+      "model": "oracle",
+      "imageUrl": "https://docs.fivem.net/vehicles/oracle.webp",
+      "file": "oracle.png",
+      "ok": true
+    },
+    {
+      "displayName": "Oracle",
+      "hash": "3783366066",
+      "model": "oracle2",
+      "imageUrl": "https://docs.fivem.net/vehicles/oracle2.webp",
+      "file": "oracle2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Postlude",
+      "hash": "4000288633",
+      "model": "postlude",
+      "imageUrl": "https://docs.fivem.net/vehicles/postlude.webp",
+      "file": "postlude.png",
+      "ok": true
+    },
+    {
+      "displayName": "Previon",
+      "hash": "1416471345",
+      "model": "previon",
+      "imageUrl": "https://docs.fivem.net/vehicles/previon.webp",
+      "file": "previon.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sentinel XS",
+      "hash": "1349725314",
+      "model": "sentinel",
+      "imageUrl": "https://docs.fivem.net/vehicles/sentinel.webp",
+      "file": "sentinel.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sentinel",
+      "hash": "873639469",
+      "model": "sentinel2",
+      "imageUrl": "https://docs.fivem.net/vehicles/sentinel2.webp",
+      "file": "sentinel2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Windsor",
+      "hash": "1581459400",
+      "model": "windsor",
+      "imageUrl": "https://docs.fivem.net/vehicles/windsor.webp",
+      "file": "windsor.png",
+      "ok": true
+    },
+    {
+      "displayName": "Windsor Drop",
+      "hash": "2364918497",
+      "model": "windsor2",
+      "imageUrl": "https://docs.fivem.net/vehicles/windsor2.webp",
+      "file": "windsor2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Zion",
+      "hash": "3172678083",
+      "model": "zion",
+      "imageUrl": "https://docs.fivem.net/vehicles/zion.webp",
+      "file": "zion.png",
+      "ok": true
+    },
+    {
+      "displayName": "Zion Cabrio",
+      "hash": "3101863448",
+      "model": "zion2",
+      "imageUrl": "https://docs.fivem.net/vehicles/zion2.webp",
+      "file": "zion2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Blade",
+      "hash": "3089165662",
+      "model": "blade",
+      "imageUrl": "https://docs.fivem.net/vehicles/blade.webp",
+      "file": "blade.png",
+      "ok": true
+    },
+    {
+      "displayName": "Brigham",
+      "hash": "3640468689",
+      "model": "brigham",
+      "imageUrl": "https://docs.fivem.net/vehicles/brigham.webp",
+      "file": "brigham.png",
+      "ok": true
+    },
+    {
+      "displayName": "Broadway",
+      "hash": "2361724968",
+      "model": "broadway",
+      "imageUrl": "https://docs.fivem.net/vehicles/broadway.webp",
+      "file": "broadway.png",
+      "ok": true
+    },
+    {
+      "displayName": "Buccaneer",
+      "hash": "3612755468",
+      "model": "buccaneer",
+      "imageUrl": "https://docs.fivem.net/vehicles/buccaneer.webp",
+      "file": "buccaneer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Buccaneer Custom",
+      "hash": "3281516360",
+      "model": "buccaneer2",
+      "imageUrl": "https://docs.fivem.net/vehicles/buccaneer2.webp",
+      "file": "buccaneer2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Buffalo STX",
+      "hash": "3675036420",
+      "model": "buffalo4",
+      "imageUrl": "https://docs.fivem.net/vehicles/buffalo4.webp",
+      "file": "buffalo4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Buffalo EVX",
+      "hash": "165968051",
+      "model": "buffalo5",
+      "imageUrl": "https://docs.fivem.net/vehicles/buffalo5.webp",
+      "file": "buffalo5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Chino",
+      "hash": "349605904",
+      "model": "chino",
+      "imageUrl": "https://docs.fivem.net/vehicles/chino.webp",
+      "file": "chino.png",
+      "ok": true
+    },
+    {
+      "displayName": "Chino Custom",
+      "hash": "2933279331",
+      "model": "chino2",
+      "imageUrl": "https://docs.fivem.net/vehicles/chino2.webp",
+      "file": "chino2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Clique",
+      "hash": "2728360112",
+      "model": "clique",
+      "imageUrl": "https://docs.fivem.net/vehicles/clique.webp",
+      "file": "clique.png",
+      "ok": true
+    },
+    {
+      "displayName": "Clique Wagon",
+      "hash": "3315674721",
+      "model": "clique2",
+      "imageUrl": "https://docs.fivem.net/vehicles/clique2.webp",
+      "file": "clique2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Coquette BlackFin",
+      "hash": "784565758",
+      "model": "coquette3",
+      "imageUrl": "https://docs.fivem.net/vehicles/coquette3.webp",
+      "file": "coquette3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Deviant",
+      "hash": "1279262537",
+      "model": "deviant",
+      "imageUrl": "https://docs.fivem.net/vehicles/deviant.webp",
+      "file": "deviant.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dominator",
+      "hash": "80636076",
+      "model": "dominator",
+      "imageUrl": "https://docs.fivem.net/vehicles/dominator.webp",
+      "file": "dominator.png",
+      "ok": true
+    },
+    {
+      "displayName": "Pisswasser Dominator",
+      "hash": "3379262425",
+      "model": "dominator2",
+      "imageUrl": "https://docs.fivem.net/vehicles/dominator2.webp",
+      "file": "dominator2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dominator GTX",
+      "hash": "3308022675",
+      "model": "dominator3",
+      "imageUrl": "https://docs.fivem.net/vehicles/dominator3.webp",
+      "file": "dominator3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Dominator",
+      "hash": "3606777648",
+      "model": "dominator4",
+      "imageUrl": "https://docs.fivem.net/vehicles/dominator4.webp",
+      "file": "dominator4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Dominator",
+      "hash": "2919906639",
+      "model": "dominator5",
+      "imageUrl": "https://docs.fivem.net/vehicles/dominator5.webp",
+      "file": "dominator5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Dominator",
+      "hash": "3001042683",
+      "model": "dominator6",
+      "imageUrl": "https://docs.fivem.net/vehicles/dominator6.webp",
+      "file": "dominator6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dominator ASP",
+      "hash": "426742808",
+      "model": "dominator7",
+      "imageUrl": "https://docs.fivem.net/vehicles/dominator7.webp",
+      "file": "dominator7.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dominator GTT",
+      "hash": "736672010",
+      "model": "dominator8",
+      "imageUrl": "https://docs.fivem.net/vehicles/dominator8.webp",
+      "file": "dominator8.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dominator GT",
+      "hash": "3853757601",
+      "model": "dominator9",
+      "imageUrl": "https://docs.fivem.net/vehicles/dominator9.webp",
+      "file": "dominator9.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dominator FX",
+      "hash": "-939601823",
+      "model": "driftdominator10",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftdominator10.webp",
+      "file": "driftdominator10.png",
+      "ok": true
+    },
+    {
+      "displayName": "Drift Yosemite",
+      "hash": "2613313775",
+      "model": "driftyosemite",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftyosemite.webp",
+      "file": "driftyosemite.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dukes",
+      "hash": "723973206",
+      "model": "dukes",
+      "imageUrl": "https://docs.fivem.net/vehicles/dukes.webp",
+      "file": "dukes.png",
+      "ok": true
+    },
+    {
+      "displayName": "Duke O'Death",
+      "hash": "3968823444",
+      "model": "dukes2",
+      "imageUrl": "https://docs.fivem.net/vehicles/dukes2.webp",
+      "file": "dukes2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Beater Dukes",
+      "hash": "2134119907",
+      "model": "dukes3",
+      "imageUrl": "https://docs.fivem.net/vehicles/dukes3.webp",
+      "file": "dukes3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ellie",
+      "hash": "3027423925",
+      "model": "ellie",
+      "imageUrl": "https://docs.fivem.net/vehicles/ellie.webp",
+      "file": "ellie.png",
+      "ok": true
+    },
+    {
+      "displayName": "Eudora",
+      "hash": "3045179290",
+      "model": "eudora",
+      "imageUrl": "https://docs.fivem.net/vehicles/eudora.webp",
+      "file": "eudora.png",
+      "ok": true
+    },
+    {
+      "displayName": "Faction",
+      "hash": "2175389151",
+      "model": "faction",
+      "imageUrl": "https://docs.fivem.net/vehicles/faction.webp",
+      "file": "faction.png",
+      "ok": true
+    },
+    {
+      "displayName": "Faction Custom 1",
+      "hash": "2504420315",
+      "model": "faction2",
+      "imageUrl": "https://docs.fivem.net/vehicles/faction2.webp",
+      "file": "faction2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Faction Custom Donk",
+      "hash": "2255212070",
+      "model": "faction3",
+      "imageUrl": "https://docs.fivem.net/vehicles/faction3.webp",
+      "file": "faction3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gauntlet",
+      "hash": "2494797253",
+      "model": "gauntlet",
+      "imageUrl": "https://docs.fivem.net/vehicles/gauntlet.webp",
+      "file": "gauntlet.png",
+      "ok": true
+    },
+    {
+      "displayName": "Redwood Gauntlet",
+      "hash": "349315417",
+      "model": "gauntlet2",
+      "imageUrl": "https://docs.fivem.net/vehicles/gauntlet2.webp",
+      "file": "gauntlet2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gauntlet Classic",
+      "hash": "722226637",
+      "model": "gauntlet3",
+      "imageUrl": "https://docs.fivem.net/vehicles/gauntlet3.webp",
+      "file": "gauntlet3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gauntlet Hellfire",
+      "hash": "1934384720",
+      "model": "gauntlet4",
+      "imageUrl": "https://docs.fivem.net/vehicles/gauntlet4.webp",
+      "file": "gauntlet4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gauntlet Classic Custom",
+      "hash": "2172320429",
+      "model": "gauntlet5",
+      "imageUrl": "https://docs.fivem.net/vehicles/gauntlet5.webp",
+      "file": "gauntlet5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gauntlet Hellfire",
+      "hash": "-361348193",
+      "model": "driftgauntlet4",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftgauntlet4.webp",
+      "file": "driftgauntlet4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Greenwood",
+      "hash": "40817712",
+      "model": "greenwood",
+      "imageUrl": "https://docs.fivem.net/vehicles/greenwood.webp",
+      "file": "greenwood.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hermes",
+      "hash": "15219735",
+      "model": "hermes",
+      "imageUrl": "https://docs.fivem.net/vehicles/hermes.webp",
+      "file": "hermes.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hotknife",
+      "hash": "37348240",
+      "model": "hotknife",
+      "imageUrl": "https://docs.fivem.net/vehicles/hotknife.webp",
+      "file": "hotknife.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hustler",
+      "hash": "600450546",
+      "model": "hustler",
+      "imageUrl": "https://docs.fivem.net/vehicles/hustler.webp",
+      "file": "hustler.png",
+      "ok": true
+    },
+    {
+      "displayName": "Impaler",
+      "hash": "2198276962",
+      "model": "impaler",
+      "imageUrl": "https://docs.fivem.net/vehicles/impaler.webp",
+      "file": "impaler.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Impaler",
+      "hash": "1009171724",
+      "model": "impaler2",
+      "imageUrl": "https://docs.fivem.net/vehicles/impaler2.webp",
+      "file": "impaler2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Impaler",
+      "hash": "2370166601",
+      "model": "impaler3",
+      "imageUrl": "https://docs.fivem.net/vehicles/impaler3.webp",
+      "file": "impaler3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Impaler",
+      "hash": "2550461639",
+      "model": "impaler4",
+      "imageUrl": "https://docs.fivem.net/vehicles/impaler4.webp",
+      "file": "impaler4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Impaler LX",
+      "hash": "4116524922",
+      "model": "impaler6",
+      "imageUrl": "https://docs.fivem.net/vehicles/impaler6.webp",
+      "file": "impaler6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Imperator",
+      "hash": "444994115",
+      "model": "imperator",
+      "imageUrl": "https://docs.fivem.net/vehicles/imperator.webp",
+      "file": "imperator.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Imperator",
+      "hash": "1637620610",
+      "model": "imperator2",
+      "imageUrl": "https://docs.fivem.net/vehicles/imperator2.webp",
+      "file": "imperator2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Imperator",
+      "hash": "3539435063",
+      "model": "imperator3",
+      "imageUrl": "https://docs.fivem.net/vehicles/imperator3.webp",
+      "file": "imperator3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Lurcher",
+      "hash": "2068293287",
+      "model": "lurcher",
+      "imageUrl": "https://docs.fivem.net/vehicles/lurcher.webp",
+      "file": "lurcher.png",
+      "ok": true
+    },
+    {
+      "displayName": "Manana Custom",
+      "hash": "1717532765",
+      "model": "manana2",
+      "imageUrl": "https://docs.fivem.net/vehicles/manana2.webp",
+      "file": "manana2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Moonbeam",
+      "hash": "525509695",
+      "model": "moonbeam",
+      "imageUrl": "https://docs.fivem.net/vehicles/moonbeam.webp",
+      "file": "moonbeam.png",
+      "ok": true
+    },
+    {
+      "displayName": "Moonbeam Custom",
+      "hash": "1896491931",
+      "model": "moonbeam2",
+      "imageUrl": "https://docs.fivem.net/vehicles/moonbeam2.webp",
+      "file": "moonbeam2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightshade",
+      "hash": "2351681756",
+      "model": "nightshade",
+      "imageUrl": "https://docs.fivem.net/vehicles/nightshade.webp",
+      "file": "nightshade.png",
+      "ok": true
+    },
+    {
+      "displayName": "Peyote Gasser",
+      "hash": "2490551588",
+      "model": "peyote2",
+      "imageUrl": "https://docs.fivem.net/vehicles/peyote2.webp",
+      "file": "peyote2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Phoenix",
+      "hash": "2199527893",
+      "model": "phoenix",
+      "imageUrl": "https://docs.fivem.net/vehicles/phoenix.webp",
+      "file": "phoenix.png",
+      "ok": true
+    },
+    {
+      "displayName": "Picador",
+      "hash": "1507916787",
+      "model": "picador",
+      "imageUrl": "https://docs.fivem.net/vehicles/picador.webp",
+      "file": "picador.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rat-Loader",
+      "hash": "3627815886",
+      "model": "ratloader",
+      "imageUrl": "https://docs.fivem.net/vehicles/ratloader.webp",
+      "file": "ratloader.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rat-Truck",
+      "hash": "3705788919",
+      "model": "ratloader2",
+      "imageUrl": "https://docs.fivem.net/vehicles/ratloader2.webp",
+      "file": "ratloader2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ruiner",
+      "hash": "4067225593",
+      "model": "ruiner",
+      "imageUrl": "https://docs.fivem.net/vehicles/ruiner.webp",
+      "file": "ruiner.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ruiner 2000",
+      "hash": "941494461",
+      "model": "ruiner2",
+      "imageUrl": "https://docs.fivem.net/vehicles/ruiner2.webp",
+      "file": "ruiner2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ruiner",
+      "hash": "777714999",
+      "model": "ruiner3",
+      "imageUrl": "https://docs.fivem.net/vehicles/ruiner3.webp",
+      "file": "ruiner3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ruiner ZZ-8",
+      "hash": "1706945532",
+      "model": "ruiner4",
+      "imageUrl": "https://docs.fivem.net/vehicles/ruiner4.webp",
+      "file": "ruiner4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sabre Turbo",
+      "hash": "2609945748",
+      "model": "sabregt",
+      "imageUrl": "https://docs.fivem.net/vehicles/sabregt.webp",
+      "file": "sabregt.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sabre Turbo Custom",
+      "hash": "223258115",
+      "model": "sabregt2",
+      "imageUrl": "https://docs.fivem.net/vehicles/sabregt2.webp",
+      "file": "sabregt2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Slamvan",
+      "hash": "729783779",
+      "model": "slamvan",
+      "imageUrl": "https://docs.fivem.net/vehicles/slamvan.webp",
+      "file": "slamvan.png",
+      "ok": true
+    },
+    {
+      "displayName": "Lost Slamvan",
+      "hash": "833469436",
+      "model": "slamvan2",
+      "imageUrl": "https://docs.fivem.net/vehicles/slamvan2.webp",
+      "file": "slamvan2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Slamvan Custom",
+      "hash": "1119641113",
+      "model": "slamvan3",
+      "imageUrl": "https://docs.fivem.net/vehicles/slamvan3.webp",
+      "file": "slamvan3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Slamvan",
+      "hash": "2233918197",
+      "model": "slamvan4",
+      "imageUrl": "https://docs.fivem.net/vehicles/slamvan4.webp",
+      "file": "slamvan4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Slamvan",
+      "hash": "373261600",
+      "model": "slamvan5",
+      "imageUrl": "https://docs.fivem.net/vehicles/slamvan5.webp",
+      "file": "slamvan5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Slamvan",
+      "hash": "1742022738",
+      "model": "slamvan6",
+      "imageUrl": "https://docs.fivem.net/vehicles/slamvan6.webp",
+      "file": "slamvan6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stallion",
+      "hash": "1923400478",
+      "model": "stalion",
+      "imageUrl": "https://docs.fivem.net/vehicles/stalion.webp",
+      "file": "stalion.png",
+      "ok": true
+    },
+    {
+      "displayName": "Burger Shot Stallion",
+      "hash": "3893323758",
+      "model": "stalion2",
+      "imageUrl": "https://docs.fivem.net/vehicles/stalion2.webp",
+      "file": "stalion2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tahoma Coupe",
+      "hash": "3833117047",
+      "model": "tahoma",
+      "imageUrl": "https://docs.fivem.net/vehicles/tahoma.webp",
+      "file": "tahoma.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tampa",
+      "hash": "972671128",
+      "model": "tampa",
+      "imageUrl": "https://docs.fivem.net/vehicles/tampa.webp",
+      "file": "tampa.png",
+      "ok": true
+    },
+    {
+      "displayName": "Weaponized Tampa",
+      "hash": "3084515313",
+      "model": "tampa3",
+      "imageUrl": "https://docs.fivem.net/vehicles/tampa3.webp",
+      "file": "tampa3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tampa GT",
+      "hash": "-1508420500",
+      "model": "tampa4",
+      "imageUrl": "https://docs.fivem.net/vehicles/tampa4.webp",
+      "file": "tampa4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tulip",
+      "hash": "1456744817",
+      "model": "tulip",
+      "imageUrl": "https://docs.fivem.net/vehicles/tulip.webp",
+      "file": "tulip.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tulip M-100",
+      "hash": "268758436",
+      "model": "tulip2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tulip2.webp",
+      "file": "tulip2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vamos",
+      "hash": "4245851645",
+      "model": "vamos",
+      "imageUrl": "https://docs.fivem.net/vehicles/vamos.webp",
+      "file": "vamos.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vigero",
+      "hash": "3469130167",
+      "model": "vigero",
+      "imageUrl": "https://docs.fivem.net/vehicles/vigero.webp",
+      "file": "vigero.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vigero ZX",
+      "hash": "2536587772",
+      "model": "vigero2",
+      "imageUrl": "https://docs.fivem.net/vehicles/vigero2.webp",
+      "file": "vigero2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vigero ZX Convertible",
+      "hash": "372621319",
+      "model": "vigero3",
+      "imageUrl": "https://docs.fivem.net/vehicles/vigero3.webp",
+      "file": "vigero3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Virgo",
+      "hash": "3796912450",
+      "model": "virgo",
+      "imageUrl": "https://docs.fivem.net/vehicles/virgo.webp",
+      "file": "virgo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Virgo Classic Custom",
+      "hash": "3395457658",
+      "model": "virgo2",
+      "imageUrl": "https://docs.fivem.net/vehicles/virgo2.webp",
+      "file": "virgo2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Virgo Classic",
+      "hash": "16646064",
+      "model": "virgo3",
+      "imageUrl": "https://docs.fivem.net/vehicles/virgo3.webp",
+      "file": "virgo3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Voodoo Custom",
+      "hash": "2006667053",
+      "model": "voodoo",
+      "imageUrl": "https://docs.fivem.net/vehicles/voodoo.webp",
+      "file": "voodoo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Voodoo",
+      "hash": "523724515",
+      "model": "voodoo2",
+      "imageUrl": "https://docs.fivem.net/vehicles/voodoo2.webp",
+      "file": "voodoo2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Weevil Custom",
+      "hash": "3300595976",
+      "model": "weevil2",
+      "imageUrl": "https://docs.fivem.net/vehicles/weevil2.webp",
+      "file": "weevil2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Yosemite",
+      "hash": "1871995513",
+      "model": "yosemite",
+      "imageUrl": "https://docs.fivem.net/vehicles/yosemite.webp",
+      "file": "yosemite.png",
+      "ok": true
+    },
+    {
+      "displayName": "Drift Yosemite",
+      "hash": "1693751655",
+      "model": "yosemite2",
+      "imageUrl": "https://docs.fivem.net/vehicles/yosemite2.webp",
+      "file": "yosemite2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ardent",
+      "hash": "159274291",
+      "model": "ardent",
+      "imageUrl": "https://docs.fivem.net/vehicles/ardent.webp",
+      "file": "ardent.png",
+      "ok": true
+    },
+    {
+      "displayName": "Roosevelt",
+      "hash": "117401876",
+      "model": "btype",
+      "imageUrl": "https://docs.fivem.net/vehicles/btype.webp",
+      "file": "btype.png",
+      "ok": true
+    },
+    {
+      "displayName": "Fränken Stange",
+      "hash": "3463132580",
+      "model": "btype2",
+      "imageUrl": "https://docs.fivem.net/vehicles/btype2.webp",
+      "file": "btype2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Roosevelt Valor",
+      "hash": "3692679425",
+      "model": "btype3",
+      "imageUrl": "https://docs.fivem.net/vehicles/btype3.webp",
+      "file": "btype3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Casco",
+      "hash": "941800958",
+      "model": "casco",
+      "imageUrl": "https://docs.fivem.net/vehicles/casco.webp",
+      "file": "casco.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cheburek",
+      "hash": "3306466016",
+      "model": "cheburek",
+      "imageUrl": "https://docs.fivem.net/vehicles/cheburek.webp",
+      "file": "cheburek.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cheetah Classic",
+      "hash": "223240013",
+      "model": "cheetah2",
+      "imageUrl": "https://docs.fivem.net/vehicles/cheetah2.webp",
+      "file": "cheetah2.png",
+      "ok": true
+    },
+    {
+      "displayName": "LSCM Cheetah Classic",
+      "hash": "471399650",
+      "model": "cheetah3",
+      "imageUrl": "https://docs.fivem.net/vehicles/cheetah3.webp",
+      "file": "cheetah3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Coquette Classic",
+      "hash": "1011753235",
+      "model": "coquette2",
+      "imageUrl": "https://docs.fivem.net/vehicles/coquette2.webp",
+      "file": "coquette2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Deluxo",
+      "hash": "1483171323",
+      "model": "deluxo",
+      "imageUrl": "https://docs.fivem.net/vehicles/deluxo.webp",
+      "file": "deluxo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dynasty",
+      "hash": "310284501",
+      "model": "dynasty",
+      "imageUrl": "https://docs.fivem.net/vehicles/dynasty.webp",
+      "file": "dynasty.png",
+      "ok": true
+    },
+    {
+      "displayName": "Fagaloa",
+      "hash": "1617472902",
+      "model": "fagaloa",
+      "imageUrl": "https://docs.fivem.net/vehicles/fagaloa.webp",
+      "file": "fagaloa.png",
+      "ok": true
+    },
+    {
+      "displayName": "Feltzer Classic",
+      "hash": "2728226064",
+      "model": "feltzer3",
+      "imageUrl": "https://docs.fivem.net/vehicles/feltzer3.webp",
+      "file": "feltzer3.png",
+      "ok": true
+    },
+    {
+      "displayName": "GT500",
+      "hash": "2215179066",
+      "model": "gt500",
+      "imageUrl": "https://docs.fivem.net/vehicles/gt500.webp",
+      "file": "gt500.png",
+      "ok": true
+    },
+    {
+      "displayName": "Infernus Classic",
+      "hash": "2889029532",
+      "model": "infernus2",
+      "imageUrl": "https://docs.fivem.net/vehicles/infernus2.webp",
+      "file": "infernus2.png",
+      "ok": true
+    },
+    {
+      "displayName": "JB 700",
+      "hash": "1051415893",
+      "model": "jb700",
+      "imageUrl": "https://docs.fivem.net/vehicles/jb700.webp",
+      "file": "jb700.png",
+      "ok": true
+    },
+    {
+      "displayName": "JB 700W",
+      "hash": "394110044",
+      "model": "jb7002",
+      "imageUrl": "https://docs.fivem.net/vehicles/jb7002.webp",
+      "file": "jb7002.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mamba",
+      "hash": "2634021974",
+      "model": "mamba",
+      "imageUrl": "https://docs.fivem.net/vehicles/mamba.webp",
+      "file": "mamba.png",
+      "ok": true
+    },
+    {
+      "displayName": "Manana",
+      "hash": "2170765704",
+      "model": "manana",
+      "imageUrl": "https://docs.fivem.net/vehicles/manana.webp",
+      "file": "manana.png",
+      "ok": true
+    },
+    {
+      "displayName": "Michelli GT",
+      "hash": "1046206681",
+      "model": "michelli",
+      "imageUrl": "https://docs.fivem.net/vehicles/michelli.webp",
+      "file": "michelli.png",
+      "ok": true
+    },
+    {
+      "displayName": "Monroe",
+      "hash": "3861591579",
+      "model": "monroe",
+      "imageUrl": "https://docs.fivem.net/vehicles/monroe.webp",
+      "file": "monroe.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nebula Turbo",
+      "hash": "3412338231",
+      "model": "nebula",
+      "imageUrl": "https://docs.fivem.net/vehicles/nebula.webp",
+      "file": "nebula.png",
+      "ok": true
+    },
+    {
+      "displayName": "Peyote",
+      "hash": "1830407356",
+      "model": "peyote",
+      "imageUrl": "https://docs.fivem.net/vehicles/peyote.webp",
+      "file": "peyote.png",
+      "ok": true
+    },
+    {
+      "displayName": "Peyote Custom",
+      "hash": "1107404867",
+      "model": "peyote3",
+      "imageUrl": "https://docs.fivem.net/vehicles/peyote3.webp",
+      "file": "peyote3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Pigalle",
+      "hash": "1078682497",
+      "model": "pigalle",
+      "imageUrl": "https://docs.fivem.net/vehicles/pigalle.webp",
+      "file": "pigalle.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rapid GT Classic",
+      "hash": "2049897956",
+      "model": "rapidgt3",
+      "imageUrl": "https://docs.fivem.net/vehicles/rapidgt3.webp",
+      "file": "rapidgt3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Retinue",
+      "hash": "1841130506",
+      "model": "retinue",
+      "imageUrl": "https://docs.fivem.net/vehicles/retinue.webp",
+      "file": "retinue.png",
+      "ok": true
+    },
+    {
+      "displayName": "Retinue Mk II",
+      "hash": "2031587082",
+      "model": "retinue2",
+      "imageUrl": "https://docs.fivem.net/vehicles/retinue2.webp",
+      "file": "retinue2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Savestra",
+      "hash": "903794909",
+      "model": "savestra",
+      "imageUrl": "https://docs.fivem.net/vehicles/savestra.webp",
+      "file": "savestra.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stinger",
+      "hash": "1545842587",
+      "model": "stinger",
+      "imageUrl": "https://docs.fivem.net/vehicles/stinger.webp",
+      "file": "stinger.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stinger GT",
+      "hash": "2196019706",
+      "model": "stingergt",
+      "imageUrl": "https://docs.fivem.net/vehicles/stingergt.webp",
+      "file": "stingergt.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stromberg",
+      "hash": "886810209",
+      "model": "stromberg",
+      "imageUrl": "https://docs.fivem.net/vehicles/stromberg.webp",
+      "file": "stromberg.png",
+      "ok": true
+    },
+    {
+      "displayName": "Swinger",
+      "hash": "500482303",
+      "model": "swinger",
+      "imageUrl": "https://docs.fivem.net/vehicles/swinger.webp",
+      "file": "swinger.png",
+      "ok": true
+    },
+    {
+      "displayName": "Toreador",
+      "hash": "1455990255",
+      "model": "toreador",
+      "imageUrl": "https://docs.fivem.net/vehicles/toreador.webp",
+      "file": "toreador.png",
+      "ok": true
+    },
+    {
+      "displayName": "Torero",
+      "hash": "1504306544",
+      "model": "torero",
+      "imageUrl": "https://docs.fivem.net/vehicles/torero.webp",
+      "file": "torero.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tornado",
+      "hash": "464687292",
+      "model": "tornado",
+      "imageUrl": "https://docs.fivem.net/vehicles/tornado.webp",
+      "file": "tornado.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tornado",
+      "hash": "1531094468",
+      "model": "tornado2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tornado2.webp",
+      "file": "tornado2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tornado",
+      "hash": "1762279763",
+      "model": "tornado3",
+      "imageUrl": "https://docs.fivem.net/vehicles/tornado3.webp",
+      "file": "tornado3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tornado",
+      "hash": "2261744861",
+      "model": "tornado4",
+      "imageUrl": "https://docs.fivem.net/vehicles/tornado4.webp",
+      "file": "tornado4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tornado Custom",
+      "hash": "2497353967",
+      "model": "tornado5",
+      "imageUrl": "https://docs.fivem.net/vehicles/tornado5.webp",
+      "file": "tornado5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tornado Rat Rod",
+      "hash": "2736567667",
+      "model": "tornado6",
+      "imageUrl": "https://docs.fivem.net/vehicles/tornado6.webp",
+      "file": "tornado6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Turismo Classic",
+      "hash": "3312836369",
+      "model": "turismo2",
+      "imageUrl": "https://docs.fivem.net/vehicles/turismo2.webp",
+      "file": "turismo2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Viseris",
+      "hash": "3903371924",
+      "model": "viseris",
+      "imageUrl": "https://docs.fivem.net/vehicles/viseris.webp",
+      "file": "viseris.png",
+      "ok": true
+    },
+    {
+      "displayName": "190z",
+      "hash": "838982985",
+      "model": "z190",
+      "imageUrl": "https://docs.fivem.net/vehicles/z190.webp",
+      "file": "z190.png",
+      "ok": true
+    },
+    {
+      "displayName": "Zion Classic",
+      "hash": "1862507111",
+      "model": "zion3",
+      "imageUrl": "https://docs.fivem.net/vehicles/zion3.webp",
+      "file": "zion3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Z-Type",
+      "hash": "758895617",
+      "model": "ztype",
+      "imageUrl": "https://docs.fivem.net/vehicles/ztype.webp",
+      "file": "ztype.png",
+      "ok": true
+    },
+    {
+      "displayName": "Alpha",
+      "hash": "767087018",
+      "model": "alpha",
+      "imageUrl": "https://docs.fivem.net/vehicles/alpha.webp",
+      "file": "alpha.png",
+      "ok": true
+    },
+    {
+      "displayName": "Banshee",
+      "hash": "3253274834",
+      "model": "banshee",
+      "imageUrl": "https://docs.fivem.net/vehicles/banshee.webp",
+      "file": "banshee.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bestia GTS",
+      "hash": "1274868363",
+      "model": "bestiagts",
+      "imageUrl": "https://docs.fivem.net/vehicles/bestiagts.webp",
+      "file": "bestiagts.png",
+      "ok": true
+    },
+    {
+      "displayName": "Blista Compact",
+      "hash": "1039032026",
+      "model": "blista2",
+      "imageUrl": "https://docs.fivem.net/vehicles/blista2.webp",
+      "file": "blista2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Go Go Monkey Blista",
+      "hash": "3703315515",
+      "model": "blista3",
+      "imageUrl": "https://docs.fivem.net/vehicles/blista3.webp",
+      "file": "blista3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Buffalo",
+      "hash": "3990165190",
+      "model": "buffalo",
+      "imageUrl": "https://docs.fivem.net/vehicles/buffalo.webp",
+      "file": "buffalo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Buffalo S",
+      "hash": "736902334",
+      "model": "buffalo2",
+      "imageUrl": "https://docs.fivem.net/vehicles/buffalo2.webp",
+      "file": "buffalo2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sprunk Buffalo",
+      "hash": "237764926",
+      "model": "buffalo3",
+      "imageUrl": "https://docs.fivem.net/vehicles/buffalo3.webp",
+      "file": "buffalo3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Calico GTF",
+      "hash": "3101054893",
+      "model": "calico",
+      "imageUrl": "https://docs.fivem.net/vehicles/calico.webp",
+      "file": "calico.png",
+      "ok": true
+    },
+    {
+      "displayName": "Carbonizzare",
+      "hash": "2072687711",
+      "model": "carbonizzare",
+      "imageUrl": "https://docs.fivem.net/vehicles/carbonizzare.webp",
+      "file": "carbonizzare.png",
+      "ok": true
+    },
+    {
+      "displayName": "Comet",
+      "hash": "3249425686",
+      "model": "comet2",
+      "imageUrl": "https://docs.fivem.net/vehicles/comet2.webp",
+      "file": "comet2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Comet Retro Custom",
+      "hash": "2272483501",
+      "model": "comet3",
+      "imageUrl": "https://docs.fivem.net/vehicles/comet3.webp",
+      "file": "comet3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Comet Safari",
+      "hash": "1561920505",
+      "model": "comet4",
+      "imageUrl": "https://docs.fivem.net/vehicles/comet4.webp",
+      "file": "comet4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Comet SR",
+      "hash": "661493923",
+      "model": "comet5",
+      "imageUrl": "https://docs.fivem.net/vehicles/comet5.webp",
+      "file": "comet5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Comet S2",
+      "hash": "2568944644",
+      "model": "comet6",
+      "imageUrl": "https://docs.fivem.net/vehicles/comet6.webp",
+      "file": "comet6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Comet S2 Cabrio",
+      "hash": "1141395928",
+      "model": "comet7",
+      "imageUrl": "https://docs.fivem.net/vehicles/comet7.webp",
+      "file": "comet7.png",
+      "ok": true
+    },
+    {
+      "displayName": "Coquette",
+      "hash": "108773431",
+      "model": "coquette",
+      "imageUrl": "https://docs.fivem.net/vehicles/coquette.webp",
+      "file": "coquette.png",
+      "ok": true
+    },
+    {
+      "displayName": "Coquette D10",
+      "hash": "2566281822",
+      "model": "coquette4",
+      "imageUrl": "https://docs.fivem.net/vehicles/coquette4.webp",
+      "file": "coquette4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Corsita",
+      "hash": "3540279623",
+      "model": "corsita",
+      "imageUrl": "https://docs.fivem.net/vehicles/corsita.webp",
+      "file": "corsita.png",
+      "ok": true
+    },
+    {
+      "displayName": "La Coureuse",
+      "hash": "610429990",
+      "model": "coureur",
+      "imageUrl": "https://docs.fivem.net/vehicles/coureur.webp",
+      "file": "coureur.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cypher",
+      "hash": "1755697647",
+      "model": "cypher",
+      "imageUrl": "https://docs.fivem.net/vehicles/cypher.webp",
+      "file": "cypher.png",
+      "ok": true
+    },
+    {
+      "displayName": "8F Drafter",
+      "hash": "686471183",
+      "model": "drafter",
+      "imageUrl": "https://docs.fivem.net/vehicles/drafter.webp",
+      "file": "drafter.png",
+      "ok": true
+    },
+    {
+      "displayName": "Euros",
+      "hash": "821121576",
+      "model": "drifteuros",
+      "imageUrl": "https://docs.fivem.net/vehicles/drifteuros.webp",
+      "file": "drifteuros.png",
+      "ok": true
+    },
+    {
+      "displayName": "Futo GTX",
+      "hash": "4113404654",
+      "model": "driftfuto",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftfuto.webp",
+      "file": "driftfuto.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jester RR",
+      "hash": "2531693357",
+      "model": "driftjester",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftjester.webp",
+      "file": "driftjester.png",
+      "ok": true
+    },
+    {
+      "displayName": "Remus",
+      "hash": "2670883828",
+      "model": "driftremus",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftremus.webp",
+      "file": "driftremus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Drift Tampa",
+      "hash": "2598648200",
+      "model": "drifttampa",
+      "imageUrl": "https://docs.fivem.net/vehicles/drifttampa.webp",
+      "file": "drifttampa.png",
+      "ok": true
+    },
+    {
+      "displayName": "ZR350",
+      "hash": "1923534526",
+      "model": "driftzr350",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftzr350.webp",
+      "file": "driftzr350.png",
+      "ok": true
+    },
+    {
+      "displayName": "Elegy Retro Custom",
+      "hash": "196747873",
+      "model": "elegy",
+      "imageUrl": "https://docs.fivem.net/vehicles/elegy.webp",
+      "file": "elegy.png",
+      "ok": true
+    },
+    {
+      "displayName": "Elegy RH8",
+      "hash": "3728579874",
+      "model": "elegy2",
+      "imageUrl": "https://docs.fivem.net/vehicles/elegy2.webp",
+      "file": "elegy2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Euros",
+      "hash": "2038480341",
+      "model": "euros",
+      "imageUrl": "https://docs.fivem.net/vehicles/euros.webp",
+      "file": "euros.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hotring Everon",
+      "hash": "4163619118",
+      "model": "everon2",
+      "imageUrl": "https://docs.fivem.net/vehicles/everon2.webp",
+      "file": "everon2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Feltzer",
+      "hash": "2299640309",
+      "model": "feltzer2",
+      "imageUrl": "https://docs.fivem.net/vehicles/feltzer2.webp",
+      "file": "feltzer2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Flash GT",
+      "hash": "3035832600",
+      "model": "flashgt",
+      "imageUrl": "https://docs.fivem.net/vehicles/flashgt.webp",
+      "file": "flashgt.png",
+      "ok": true
+    },
+    {
+      "displayName": "Furore GT",
+      "hash": "3205927392",
+      "model": "furoregt",
+      "imageUrl": "https://docs.fivem.net/vehicles/furoregt.webp",
+      "file": "furoregt.png",
+      "ok": true
+    },
+    {
+      "displayName": "Fusilade",
+      "hash": "499169875",
+      "model": "fusilade",
+      "imageUrl": "https://docs.fivem.net/vehicles/fusilade.webp",
+      "file": "fusilade.png",
+      "ok": true
+    },
+    {
+      "displayName": "Futo",
+      "hash": "2016857647",
+      "model": "futo",
+      "imageUrl": "https://docs.fivem.net/vehicles/futo.webp",
+      "file": "futo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Futo GTX",
+      "hash": "2787736776",
+      "model": "futo2",
+      "imageUrl": "https://docs.fivem.net/vehicles/futo2.webp",
+      "file": "futo2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hotring Hellfire",
+      "hash": "1336514315",
+      "model": "gauntlet6",
+      "imageUrl": "https://docs.fivem.net/vehicles/gauntlet6.webp",
+      "file": "gauntlet6.png",
+      "ok": true
+    },
+    {
+      "displayName": "GB200",
+      "hash": "1909189272",
+      "model": "gb200",
+      "imageUrl": "https://docs.fivem.net/vehicles/gb200.webp",
+      "file": "gb200.png",
+      "ok": true
+    },
+    {
+      "displayName": "Growler",
+      "hash": "1304459735",
+      "model": "growler",
+      "imageUrl": "https://docs.fivem.net/vehicles/growler.webp",
+      "file": "growler.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hotring Sabre",
+      "hash": "1115909093",
+      "model": "hotring",
+      "imageUrl": "https://docs.fivem.net/vehicles/hotring.webp",
+      "file": "hotring.png",
+      "ok": true
+    },
+    {
+      "displayName": "Imorgon",
+      "hash": "3162245632",
+      "model": "imorgon",
+      "imageUrl": "https://docs.fivem.net/vehicles/imorgon.webp",
+      "file": "imorgon.png",
+      "ok": true
+    },
+    {
+      "displayName": "Issi Sport",
+      "hash": "1854776567",
+      "model": "issi7",
+      "imageUrl": "https://docs.fivem.net/vehicles/issi7.webp",
+      "file": "issi7.png",
+      "ok": true
+    },
+    {
+      "displayName": "Itali GTO",
+      "hash": "3963499524",
+      "model": "italigto",
+      "imageUrl": "https://docs.fivem.net/vehicles/italigto.webp",
+      "file": "italigto.png",
+      "ok": true
+    },
+    {
+      "displayName": "Itali RSX",
+      "hash": "3145241962",
+      "model": "italirsx",
+      "imageUrl": "https://docs.fivem.net/vehicles/italirsx.webp",
+      "file": "italirsx.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jester",
+      "hash": "2997294755",
+      "model": "jester",
+      "imageUrl": "https://docs.fivem.net/vehicles/jester.webp",
+      "file": "jester.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jester (Racecar)",
+      "hash": "3188613414",
+      "model": "jester2",
+      "imageUrl": "https://docs.fivem.net/vehicles/jester2.webp",
+      "file": "jester2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jester Classic",
+      "hash": "4080061290",
+      "model": "jester3",
+      "imageUrl": "https://docs.fivem.net/vehicles/jester3.webp",
+      "file": "jester3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jester RR",
+      "hash": "2712905841",
+      "model": "jester4",
+      "imageUrl": "https://docs.fivem.net/vehicles/jester4.webp",
+      "file": "jester4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jugular",
+      "hash": "4086055493",
+      "model": "jugular",
+      "imageUrl": "https://docs.fivem.net/vehicles/jugular.webp",
+      "file": "jugular.png",
+      "ok": true
+    },
+    {
+      "displayName": "Khamelion",
+      "hash": "544021352",
+      "model": "khamelion",
+      "imageUrl": "https://docs.fivem.net/vehicles/khamelion.webp",
+      "file": "khamelion.png",
+      "ok": true
+    },
+    {
+      "displayName": "Komoda",
+      "hash": "3460613305",
+      "model": "komoda",
+      "imageUrl": "https://docs.fivem.net/vehicles/komoda.webp",
+      "file": "komoda.png",
+      "ok": true
+    },
+    {
+      "displayName": "Kuruma",
+      "hash": "2922118804",
+      "model": "kuruma",
+      "imageUrl": "https://docs.fivem.net/vehicles/kuruma.webp",
+      "file": "kuruma.png",
+      "ok": true
+    },
+    {
+      "displayName": "Kuruma (Armored)",
+      "hash": "410882957",
+      "model": "kuruma2",
+      "imageUrl": "https://docs.fivem.net/vehicles/kuruma2.webp",
+      "file": "kuruma2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Locust",
+      "hash": "3353694737",
+      "model": "locust",
+      "imageUrl": "https://docs.fivem.net/vehicles/locust.webp",
+      "file": "locust.png",
+      "ok": true
+    },
+    {
+      "displayName": "Lynx",
+      "hash": "482197771",
+      "model": "lynx",
+      "imageUrl": "https://docs.fivem.net/vehicles/lynx.webp",
+      "file": "lynx.png",
+      "ok": true
+    },
+    {
+      "displayName": "Massacro",
+      "hash": "4152024626",
+      "model": "massacro",
+      "imageUrl": "https://docs.fivem.net/vehicles/massacro.webp",
+      "file": "massacro.png",
+      "ok": true
+    },
+    {
+      "displayName": "Massacro (Racecar)",
+      "hash": "3663206819",
+      "model": "massacro2",
+      "imageUrl": "https://docs.fivem.net/vehicles/massacro2.webp",
+      "file": "massacro2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Neo",
+      "hash": "2674840994",
+      "model": "neo",
+      "imageUrl": "https://docs.fivem.net/vehicles/neo.webp",
+      "file": "neo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Neon",
+      "hash": "2445973230",
+      "model": "neon",
+      "imageUrl": "https://docs.fivem.net/vehicles/neon.webp",
+      "file": "neon.png",
+      "ok": true
+    },
+    {
+      "displayName": "9F",
+      "hash": "1032823388",
+      "model": "ninef",
+      "imageUrl": "https://docs.fivem.net/vehicles/ninef.webp",
+      "file": "ninef.png",
+      "ok": true
+    },
+    {
+      "displayName": "9F Cabrio",
+      "hash": "2833484545",
+      "model": "ninef2",
+      "imageUrl": "https://docs.fivem.net/vehicles/ninef2.webp",
+      "file": "ninef2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Omnis",
+      "hash": "3517794615",
+      "model": "omnis",
+      "imageUrl": "https://docs.fivem.net/vehicles/omnis.webp",
+      "file": "omnis.png",
+      "ok": true
+    },
+    {
+      "displayName": "Omnis e-GT",
+      "hash": "3789743831",
+      "model": "omnisegt",
+      "imageUrl": "https://docs.fivem.net/vehicles/omnisegt.webp",
+      "file": "omnisegt.png",
+      "ok": true
+    },
+    {
+      "displayName": "Panthere",
+      "hash": "2100457220",
+      "model": "panthere",
+      "imageUrl": "https://docs.fivem.net/vehicles/panthere.webp",
+      "file": "panthere.png",
+      "ok": true
+    },
+    {
+      "displayName": "Paragon R",
+      "hash": "3847255899",
+      "model": "paragon",
+      "imageUrl": "https://docs.fivem.net/vehicles/paragon.webp",
+      "file": "paragon.png",
+      "ok": true
+    },
+    {
+      "displayName": "Paragon R (Armored)",
+      "hash": "1416466158",
+      "model": "paragon2",
+      "imageUrl": "https://docs.fivem.net/vehicles/paragon2.webp",
+      "file": "paragon2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Pariah",
+      "hash": "867799010",
+      "model": "pariah",
+      "imageUrl": "https://docs.fivem.net/vehicles/pariah.webp",
+      "file": "pariah.png",
+      "ok": true
+    },
+    {
+      "displayName": "Penumbra",
+      "hash": "3917501776",
+      "model": "penumbra",
+      "imageUrl": "https://docs.fivem.net/vehicles/penumbra.webp",
+      "file": "penumbra.png",
+      "ok": true
+    },
+    {
+      "displayName": "Penumbra FF",
+      "hash": "3663644634",
+      "model": "penumbra2",
+      "imageUrl": "https://docs.fivem.net/vehicles/penumbra2.webp",
+      "file": "penumbra2.png",
+      "ok": true
+    },
+    {
+      "displayName": "300R",
+      "hash": "1076201208",
+      "model": "r300",
+      "imageUrl": "https://docs.fivem.net/vehicles/r300.webp",
+      "file": "r300.png",
+      "ok": true
+    },
+    {
+      "displayName": "Raiden",
+      "hash": "2765724541",
+      "model": "raiden",
+      "imageUrl": "https://docs.fivem.net/vehicles/raiden.webp",
+      "file": "raiden.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rapid GT",
+      "hash": "2360515092",
+      "model": "rapidgt",
+      "imageUrl": "https://docs.fivem.net/vehicles/rapidgt.webp",
+      "file": "rapidgt.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rapid GT",
+      "hash": "1737773231",
+      "model": "rapidgt2",
+      "imageUrl": "https://docs.fivem.net/vehicles/rapidgt2.webp",
+      "file": "rapidgt2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rapid GT X",
+      "hash": "1761301369",
+      "model": "rapidgt4",
+      "imageUrl": "https://docs.fivem.net/vehicles/rapidgt4.webp",
+      "file": "rapidgt4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Raptor",
+      "hash": "3620039993",
+      "model": "raptor",
+      "imageUrl": "https://docs.fivem.net/vehicles/raptor.webp",
+      "file": "raptor.png",
+      "ok": true
+    },
+    {
+      "displayName": "Remus",
+      "hash": "1377217886",
+      "model": "remus",
+      "imageUrl": "https://docs.fivem.net/vehicles/remus.webp",
+      "file": "remus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Revolter",
+      "hash": "3884762073",
+      "model": "revolter",
+      "imageUrl": "https://docs.fivem.net/vehicles/revolter.webp",
+      "file": "revolter.png",
+      "ok": true
+    },
+    {
+      "displayName": "RT3000",
+      "hash": "3842363289",
+      "model": "rt3000",
+      "imageUrl": "https://docs.fivem.net/vehicles/rt3000.webp",
+      "file": "rt3000.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ruston",
+      "hash": "719660200",
+      "model": "ruston",
+      "imageUrl": "https://docs.fivem.net/vehicles/ruston.webp",
+      "file": "ruston.png",
+      "ok": true
+    },
+    {
+      "displayName": "Schafter V12",
+      "hash": "2809443750",
+      "model": "schafter3",
+      "imageUrl": "https://docs.fivem.net/vehicles/schafter3.webp",
+      "file": "schafter3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Schafter LWB",
+      "hash": "1489967196",
+      "model": "schafter4",
+      "imageUrl": "https://docs.fivem.net/vehicles/schafter4.webp",
+      "file": "schafter4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Schlagen GT",
+      "hash": "3787471536",
+      "model": "schlagen",
+      "imageUrl": "https://docs.fivem.net/vehicles/schlagen.webp",
+      "file": "schlagen.png",
+      "ok": true
+    },
+    {
+      "displayName": "Schwartzer",
+      "hash": "3548084598",
+      "model": "schwarzer",
+      "imageUrl": "https://docs.fivem.net/vehicles/schwarzer.webp",
+      "file": "schwarzer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sentinel",
+      "hash": "1104234922",
+      "model": "sentinel3",
+      "imageUrl": "https://docs.fivem.net/vehicles/sentinel3.webp",
+      "file": "sentinel3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sentinel Classic Widebody",
+      "hash": "2938086457",
+      "model": "sentinel4",
+      "imageUrl": "https://docs.fivem.net/vehicles/sentinel4.webp",
+      "file": "sentinel4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sentinel GTS",
+      "hash": "-1585673997",
+      "model": "sentinel5",
+      "imageUrl": "https://docs.fivem.net/vehicles/sentinel5.webp",
+      "file": "sentinel5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Seven-70",
+      "hash": "2537130571",
+      "model": "seven70",
+      "imageUrl": "https://docs.fivem.net/vehicles/seven70.webp",
+      "file": "seven70.png",
+      "ok": true
+    },
+    {
+      "displayName": "SM722",
+      "hash": "775514032",
+      "model": "sm722",
+      "imageUrl": "https://docs.fivem.net/vehicles/sm722.webp",
+      "file": "sm722.png",
+      "ok": true
+    },
+    {
+      "displayName": "Specter",
+      "hash": "1886268224",
+      "model": "specter",
+      "imageUrl": "https://docs.fivem.net/vehicles/specter.webp",
+      "file": "specter.png",
+      "ok": true
+    },
+    {
+      "displayName": "Specter Custom",
+      "hash": "1074745671",
+      "model": "specter2",
+      "imageUrl": "https://docs.fivem.net/vehicles/specter2.webp",
+      "file": "specter2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Itali GTO Stinger TT",
+      "hash": "1447690049",
+      "model": "stingertt",
+      "imageUrl": "https://docs.fivem.net/vehicles/stingertt.webp",
+      "file": "stingertt.png",
+      "ok": true
+    },
+    {
+      "displayName": "Streiter",
+      "hash": "1741861769",
+      "model": "streiter",
+      "imageUrl": "https://docs.fivem.net/vehicles/streiter.webp",
+      "file": "streiter.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sugoi",
+      "hash": "987469656",
+      "model": "sugoi",
+      "imageUrl": "https://docs.fivem.net/vehicles/sugoi.webp",
+      "file": "sugoi.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sultan",
+      "hash": "970598228",
+      "model": "sultan",
+      "imageUrl": "https://docs.fivem.net/vehicles/sultan.webp",
+      "file": "sultan.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sultan Classic",
+      "hash": "872704284",
+      "model": "sultan2",
+      "imageUrl": "https://docs.fivem.net/vehicles/sultan2.webp",
+      "file": "sultan2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sultan RS Classic",
+      "hash": "4003946083",
+      "model": "sultan3",
+      "imageUrl": "https://docs.fivem.net/vehicles/sultan3.webp",
+      "file": "sultan3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Surano",
+      "hash": "384071873",
+      "model": "surano",
+      "imageUrl": "https://docs.fivem.net/vehicles/surano.webp",
+      "file": "surano.png",
+      "ok": true
+    },
+    {
+      "displayName": "Drift Tampa",
+      "hash": "3223586949",
+      "model": "tampa2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tampa2.webp",
+      "file": "tampa2.png",
+      "ok": true
+    },
+    {
+      "displayName": "10F",
+      "hash": "3400983137",
+      "model": "tenf",
+      "imageUrl": "https://docs.fivem.net/vehicles/tenf.webp",
+      "file": "tenf.png",
+      "ok": true
+    },
+    {
+      "displayName": "10F Widebody",
+      "hash": "274946574",
+      "model": "tenf2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tenf2.webp",
+      "file": "tenf2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tropos Rallye",
+      "hash": "1887331236",
+      "model": "tropos",
+      "imageUrl": "https://docs.fivem.net/vehicles/tropos.webp",
+      "file": "tropos.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vectre",
+      "hash": "2754593701",
+      "model": "vectre",
+      "imageUrl": "https://docs.fivem.net/vehicles/vectre.webp",
+      "file": "vectre.png",
+      "ok": true
+    },
+    {
+      "displayName": "Verlierer",
+      "hash": "1102544804",
+      "model": "verlierer2",
+      "imageUrl": "https://docs.fivem.net/vehicles/verlierer2.webp",
+      "file": "verlierer2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Veto Classic",
+      "hash": "3437611258",
+      "model": "veto",
+      "imageUrl": "https://docs.fivem.net/vehicles/veto.webp",
+      "file": "veto.png",
+      "ok": true
+    },
+    {
+      "displayName": "Veto Modern",
+      "hash": "2802050217",
+      "model": "veto2",
+      "imageUrl": "https://docs.fivem.net/vehicles/veto2.webp",
+      "file": "veto2.png",
+      "ok": true
+    },
+    {
+      "displayName": "V-STR",
+      "hash": "1456336509",
+      "model": "vstr",
+      "imageUrl": "https://docs.fivem.net/vehicles/vstr.webp",
+      "file": "vstr.png",
+      "ok": true
+    },
+    {
+      "displayName": "ZR350",
+      "hash": "2436313176",
+      "model": "zr350",
+      "imageUrl": "https://docs.fivem.net/vehicles/zr350.webp",
+      "file": "zr350.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse ZR380",
+      "hash": "540101442",
+      "model": "zr380",
+      "imageUrl": "https://docs.fivem.net/vehicles/zr380.webp",
+      "file": "zr380.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock ZR380",
+      "hash": "3188846534",
+      "model": "zr3802",
+      "imageUrl": "https://docs.fivem.net/vehicles/zr3802.webp",
+      "file": "zr3802.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare ZR380",
+      "hash": "2816263004",
+      "model": "zr3803",
+      "imageUrl": "https://docs.fivem.net/vehicles/zr3803.webp",
+      "file": "zr3803.png",
+      "ok": true
+    },
+    {
+      "displayName": "Adder",
+      "hash": "3078201489",
+      "model": "adder",
+      "imageUrl": "https://docs.fivem.net/vehicles/adder.webp",
+      "file": "adder.png",
+      "ok": true
+    },
+    {
+      "displayName": "Autarch",
+      "hash": "3981782132",
+      "model": "autarch",
+      "imageUrl": "https://docs.fivem.net/vehicles/autarch.webp",
+      "file": "autarch.png",
+      "ok": true
+    },
+    {
+      "displayName": "Banshee 900R",
+      "hash": "633712403",
+      "model": "banshee2",
+      "imageUrl": "https://docs.fivem.net/vehicles/banshee2.webp",
+      "file": "banshee2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bullet",
+      "hash": "2598821281",
+      "model": "bullet",
+      "imageUrl": "https://docs.fivem.net/vehicles/bullet.webp",
+      "file": "bullet.png",
+      "ok": true
+    },
+    {
+      "displayName": "Champion",
+      "hash": "3379732821",
+      "model": "champion",
+      "imageUrl": "https://docs.fivem.net/vehicles/champion.webp",
+      "file": "champion.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cheetah",
+      "hash": "2983812512",
+      "model": "cheetah",
+      "imageUrl": "https://docs.fivem.net/vehicles/cheetah.webp",
+      "file": "cheetah.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cyclone",
+      "hash": "1392481335",
+      "model": "cyclone",
+      "imageUrl": "https://docs.fivem.net/vehicles/cyclone.webp",
+      "file": "cyclone.png",
+      "ok": true
+    },
+    {
+      "displayName": "Deveste Eight",
+      "hash": "1591739866",
+      "model": "deveste",
+      "imageUrl": "https://docs.fivem.net/vehicles/deveste.webp",
+      "file": "deveste.png",
+      "ok": true
+    },
+    {
+      "displayName": "Emerus",
+      "hash": "1323778901",
+      "model": "emerus",
+      "imageUrl": "https://docs.fivem.net/vehicles/emerus.webp",
+      "file": "emerus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Entity XXR",
+      "hash": "2174267100",
+      "model": "entity2",
+      "imageUrl": "https://docs.fivem.net/vehicles/entity2.webp",
+      "file": "entity2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Entity MT",
+      "hash": "1748565021",
+      "model": "entity3",
+      "imageUrl": "https://docs.fivem.net/vehicles/entity3.webp",
+      "file": "entity3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Entity XF",
+      "hash": "3003014393",
+      "model": "entityxf",
+      "imageUrl": "https://docs.fivem.net/vehicles/entityxf.webp",
+      "file": "entityxf.png",
+      "ok": true
+    },
+    {
+      "displayName": "FMJ",
+      "hash": "1426219628",
+      "model": "fmj",
+      "imageUrl": "https://docs.fivem.net/vehicles/fmj.webp",
+      "file": "fmj.png",
+      "ok": true
+    },
+    {
+      "displayName": "Furia",
+      "hash": "960812448",
+      "model": "furia",
+      "imageUrl": "https://docs.fivem.net/vehicles/furia.webp",
+      "file": "furia.png",
+      "ok": true
+    },
+    {
+      "displayName": "GP1",
+      "hash": "1234311532",
+      "model": "gp1",
+      "imageUrl": "https://docs.fivem.net/vehicles/gp1.webp",
+      "file": "gp1.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ignus",
+      "hash": "2850852987",
+      "model": "ignus",
+      "imageUrl": "https://docs.fivem.net/vehicles/ignus.webp",
+      "file": "ignus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Infernus",
+      "hash": "418536135",
+      "model": "infernus",
+      "imageUrl": "https://docs.fivem.net/vehicles/infernus.webp",
+      "file": "infernus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Itali GTB",
+      "hash": "2246633323",
+      "model": "italigtb",
+      "imageUrl": "https://docs.fivem.net/vehicles/italigtb.webp",
+      "file": "italigtb.png",
+      "ok": true
+    },
+    {
+      "displayName": "Itali GTB Custom",
+      "hash": "3812247419",
+      "model": "italigtb2",
+      "imageUrl": "https://docs.fivem.net/vehicles/italigtb2.webp",
+      "file": "italigtb2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Krieger",
+      "hash": "3630826055",
+      "model": "krieger",
+      "imageUrl": "https://docs.fivem.net/vehicles/krieger.webp",
+      "file": "krieger.png",
+      "ok": true
+    },
+    {
+      "displayName": "RE-7B",
+      "hash": "3062131285",
+      "model": "le7b",
+      "imageUrl": "https://docs.fivem.net/vehicles/le7b.webp",
+      "file": "le7b.png",
+      "ok": true
+    },
+    {
+      "displayName": "LM87",
+      "hash": "4284049613",
+      "model": "lm87",
+      "imageUrl": "https://docs.fivem.net/vehicles/lm87.webp",
+      "file": "lm87.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nero",
+      "hash": "1034187331",
+      "model": "nero",
+      "imageUrl": "https://docs.fivem.net/vehicles/nero.webp",
+      "file": "nero.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nero Custom",
+      "hash": "1093792632",
+      "model": "nero2",
+      "imageUrl": "https://docs.fivem.net/vehicles/nero2.webp",
+      "file": "nero2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Osiris",
+      "hash": "1987142870",
+      "model": "osiris",
+      "imageUrl": "https://docs.fivem.net/vehicles/osiris.webp",
+      "file": "osiris.png",
+      "ok": true
+    },
+    {
+      "displayName": "Penetrator",
+      "hash": "2536829930",
+      "model": "penetrator",
+      "imageUrl": "https://docs.fivem.net/vehicles/penetrator.webp",
+      "file": "penetrator.png",
+      "ok": true
+    },
+    {
+      "displayName": "811",
+      "hash": "2465164804",
+      "model": "pfister811",
+      "imageUrl": "https://docs.fivem.net/vehicles/pfister811.webp",
+      "file": "pfister811.png",
+      "ok": true
+    },
+    {
+      "displayName": "X80 Proto",
+      "hash": "2123327359",
+      "model": "prototipo",
+      "imageUrl": "https://docs.fivem.net/vehicles/prototipo.webp",
+      "file": "prototipo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Reaper",
+      "hash": "234062309",
+      "model": "reaper",
+      "imageUrl": "https://docs.fivem.net/vehicles/reaper.webp",
+      "file": "reaper.png",
+      "ok": true
+    },
+    {
+      "displayName": "S80RR",
+      "hash": "3970348707",
+      "model": "s80",
+      "imageUrl": "https://docs.fivem.net/vehicles/s80.webp",
+      "file": "s80.png",
+      "ok": true
+    },
+    {
+      "displayName": "SC1",
+      "hash": "1352136073",
+      "model": "sc1",
+      "imageUrl": "https://docs.fivem.net/vehicles/sc1.webp",
+      "file": "sc1.png",
+      "ok": true
+    },
+    {
+      "displayName": "Scramjet",
+      "hash": "3656405053",
+      "model": "scramjet",
+      "imageUrl": "https://docs.fivem.net/vehicles/scramjet.webp",
+      "file": "scramjet.png",
+      "ok": true
+    },
+    {
+      "displayName": "ETR1",
+      "hash": "819197656",
+      "model": "sheava",
+      "imageUrl": "https://docs.fivem.net/vehicles/sheava.webp",
+      "file": "sheava.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sultan RS",
+      "hash": "3999278268",
+      "model": "sultanrs",
+      "imageUrl": "https://docs.fivem.net/vehicles/sultanrs.webp",
+      "file": "sultanrs.png",
+      "ok": true
+    },
+    {
+      "displayName": "Suzume",
+      "hash": "687627128",
+      "model": "suzume",
+      "imageUrl": "https://docs.fivem.net/vehicles/suzume.webp",
+      "file": "suzume.png",
+      "ok": true
+    },
+    {
+      "displayName": "T20",
+      "hash": "1663218586",
+      "model": "t20",
+      "imageUrl": "https://docs.fivem.net/vehicles/t20.webp",
+      "file": "t20.png",
+      "ok": true
+    },
+    {
+      "displayName": "Taipan",
+      "hash": "3160260734",
+      "model": "taipan",
+      "imageUrl": "https://docs.fivem.net/vehicles/taipan.webp",
+      "file": "taipan.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tempesta",
+      "hash": "272929391",
+      "model": "tempesta",
+      "imageUrl": "https://docs.fivem.net/vehicles/tempesta.webp",
+      "file": "tempesta.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tezeract",
+      "hash": "1031562256",
+      "model": "tezeract",
+      "imageUrl": "https://docs.fivem.net/vehicles/tezeract.webp",
+      "file": "tezeract.png",
+      "ok": true
+    },
+    {
+      "displayName": "Thrax",
+      "hash": "1044193113",
+      "model": "thrax",
+      "imageUrl": "https://docs.fivem.net/vehicles/thrax.webp",
+      "file": "thrax.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tigon",
+      "hash": "2936769864",
+      "model": "tigon",
+      "imageUrl": "https://docs.fivem.net/vehicles/tigon.webp",
+      "file": "tigon.png",
+      "ok": true
+    },
+    {
+      "displayName": "Torero XO",
+      "hash": "4129572538",
+      "model": "torero2",
+      "imageUrl": "https://docs.fivem.net/vehicles/torero2.webp",
+      "file": "torero2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Turismo Omaggio",
+      "hash": "4171974011",
+      "model": "turismo3",
+      "imageUrl": "https://docs.fivem.net/vehicles/turismo3.webp",
+      "file": "turismo3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Turismo R",
+      "hash": "408192225",
+      "model": "turismor",
+      "imageUrl": "https://docs.fivem.net/vehicles/turismor.webp",
+      "file": "turismor.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tyrant",
+      "hash": "3918533058",
+      "model": "tyrant",
+      "imageUrl": "https://docs.fivem.net/vehicles/tyrant.webp",
+      "file": "tyrant.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tyrus",
+      "hash": "2067820283",
+      "model": "tyrus",
+      "imageUrl": "https://docs.fivem.net/vehicles/tyrus.webp",
+      "file": "tyrus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vacca",
+      "hash": "338562499",
+      "model": "vacca",
+      "imageUrl": "https://docs.fivem.net/vehicles/vacca.webp",
+      "file": "vacca.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vagner",
+      "hash": "1939284556",
+      "model": "vagner",
+      "imageUrl": "https://docs.fivem.net/vehicles/vagner.webp",
+      "file": "vagner.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vigilante",
+      "hash": "3052358707",
+      "model": "vigilante",
+      "imageUrl": "https://docs.fivem.net/vehicles/vigilante.webp",
+      "file": "vigilante.png",
+      "ok": true
+    },
+    {
+      "displayName": "Virtue",
+      "hash": "669204833",
+      "model": "virtue",
+      "imageUrl": "https://docs.fivem.net/vehicles/virtue.webp",
+      "file": "virtue.png",
+      "ok": true
+    },
+    {
+      "displayName": "Visione",
+      "hash": "3296789504",
+      "model": "visione",
+      "imageUrl": "https://docs.fivem.net/vehicles/visione.webp",
+      "file": "visione.png",
+      "ok": true
+    },
+    {
+      "displayName": "Voltic",
+      "hash": "2672523198",
+      "model": "voltic",
+      "imageUrl": "https://docs.fivem.net/vehicles/voltic.webp",
+      "file": "voltic.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rocket Voltic",
+      "hash": "989294410",
+      "model": "voltic2",
+      "imageUrl": "https://docs.fivem.net/vehicles/voltic2.webp",
+      "file": "voltic2.png",
+      "ok": true
+    },
+    {
+      "displayName": "XA-21",
+      "hash": "917809321",
+      "model": "xa21",
+      "imageUrl": "https://docs.fivem.net/vehicles/xa21.webp",
+      "file": "xa21.png",
+      "ok": true
+    },
+    {
+      "displayName": "Zeno",
+      "hash": "655665811",
+      "model": "zeno",
+      "imageUrl": "https://docs.fivem.net/vehicles/zeno.webp",
+      "file": "zeno.png",
+      "ok": true
+    },
+    {
+      "displayName": "Zentorno",
+      "hash": "2891838741",
+      "model": "zentorno",
+      "imageUrl": "https://docs.fivem.net/vehicles/zentorno.webp",
+      "file": "zentorno.png",
+      "ok": true
+    },
+    {
+      "displayName": "Zorrusso",
+      "hash": "3612858749",
+      "model": "zorrusso",
+      "imageUrl": "https://docs.fivem.net/vehicles/zorrusso.webp",
+      "file": "zorrusso.png",
+      "ok": true
+    },
+    {
+      "displayName": "Akuma",
+      "hash": "1672195559",
+      "model": "akuma",
+      "imageUrl": "https://docs.fivem.net/vehicles/akuma.webp",
+      "file": "akuma.png",
+      "ok": true
+    },
+    {
+      "displayName": "Avarus",
+      "hash": "2179174271",
+      "model": "avarus",
+      "imageUrl": "https://docs.fivem.net/vehicles/avarus.webp",
+      "file": "avarus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bagger",
+      "hash": "2154536131",
+      "model": "bagger",
+      "imageUrl": "https://docs.fivem.net/vehicles/bagger.webp",
+      "file": "bagger.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bati 801",
+      "hash": "4180675781",
+      "model": "bati",
+      "imageUrl": "https://docs.fivem.net/vehicles/bati.webp",
+      "file": "bati.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bati 801RR",
+      "hash": "3403504941",
+      "model": "bati2",
+      "imageUrl": "https://docs.fivem.net/vehicles/bati2.webp",
+      "file": "bati2.png",
+      "ok": true
+    },
+    {
+      "displayName": "BF400",
+      "hash": "86520421",
+      "model": "bf400",
+      "imageUrl": "https://docs.fivem.net/vehicles/bf400.webp",
+      "file": "bf400.png",
+      "ok": true
+    },
+    {
+      "displayName": "Carbon RS",
+      "hash": "11251904",
+      "model": "carbonrs",
+      "imageUrl": "https://docs.fivem.net/vehicles/carbonrs.webp",
+      "file": "carbonrs.png",
+      "ok": true
+    },
+    {
+      "displayName": "Chimera",
+      "hash": "6774487",
+      "model": "chimera",
+      "imageUrl": "https://docs.fivem.net/vehicles/chimera.webp",
+      "file": "chimera.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cliffhanger",
+      "hash": "390201602",
+      "model": "cliffhanger",
+      "imageUrl": "https://docs.fivem.net/vehicles/cliffhanger.webp",
+      "file": "cliffhanger.png",
+      "ok": true
+    },
+    {
+      "displayName": "Daemon",
+      "hash": "2006142190",
+      "model": "daemon",
+      "imageUrl": "https://docs.fivem.net/vehicles/daemon.webp",
+      "file": "daemon.png",
+      "ok": true
+    },
+    {
+      "displayName": "Daemon Custom",
+      "hash": "2890830793",
+      "model": "daemon2",
+      "imageUrl": "https://docs.fivem.net/vehicles/daemon2.webp",
+      "file": "daemon2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Deathbike",
+      "hash": "4267640610",
+      "model": "deathbike",
+      "imageUrl": "https://docs.fivem.net/vehicles/deathbike.webp",
+      "file": "deathbike.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Deathbike",
+      "hash": "2482017624",
+      "model": "deathbike2",
+      "imageUrl": "https://docs.fivem.net/vehicles/deathbike2.webp",
+      "file": "deathbike2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Deathbike",
+      "hash": "2920466844",
+      "model": "deathbike3",
+      "imageUrl": "https://docs.fivem.net/vehicles/deathbike3.webp",
+      "file": "deathbike3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Defiler",
+      "hash": "822018448",
+      "model": "defiler",
+      "imageUrl": "https://docs.fivem.net/vehicles/defiler.webp",
+      "file": "defiler.png",
+      "ok": true
+    },
+    {
+      "displayName": "Diabolus",
+      "hash": "4055125828",
+      "model": "diablous",
+      "imageUrl": "https://docs.fivem.net/vehicles/diablous.webp",
+      "file": "diablous.png",
+      "ok": true
+    },
+    {
+      "displayName": "Diabolus Custom",
+      "hash": "1790834270",
+      "model": "diablous2",
+      "imageUrl": "https://docs.fivem.net/vehicles/diablous2.webp",
+      "file": "diablous2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Double-T",
+      "hash": "2623969160",
+      "model": "double",
+      "imageUrl": "https://docs.fivem.net/vehicles/double.webp",
+      "file": "double.png",
+      "ok": true
+    },
+    {
+      "displayName": "Enduro",
+      "hash": "1753414259",
+      "model": "enduro",
+      "imageUrl": "https://docs.fivem.net/vehicles/enduro.webp",
+      "file": "enduro.png",
+      "ok": true
+    },
+    {
+      "displayName": "Esskey",
+      "hash": "2035069708",
+      "model": "esskey",
+      "imageUrl": "https://docs.fivem.net/vehicles/esskey.webp",
+      "file": "esskey.png",
+      "ok": true
+    },
+    {
+      "displayName": "Faggio Sport",
+      "hash": "2452219115",
+      "model": "faggio",
+      "imageUrl": "https://docs.fivem.net/vehicles/faggio.webp",
+      "file": "faggio.png",
+      "ok": true
+    },
+    {
+      "displayName": "Faggio",
+      "hash": "55628203",
+      "model": "faggio2",
+      "imageUrl": "https://docs.fivem.net/vehicles/faggio2.webp",
+      "file": "faggio2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Faggio Mod",
+      "hash": "3005788552",
+      "model": "faggio3",
+      "imageUrl": "https://docs.fivem.net/vehicles/faggio3.webp",
+      "file": "faggio3.png",
+      "ok": true
+    },
+    {
+      "displayName": "FCR 1000",
+      "hash": "627535535",
+      "model": "fcr",
+      "imageUrl": "https://docs.fivem.net/vehicles/fcr.webp",
+      "file": "fcr.png",
+      "ok": true
+    },
+    {
+      "displayName": "FCR 1000 Custom",
+      "hash": "3537231886",
+      "model": "fcr2",
+      "imageUrl": "https://docs.fivem.net/vehicles/fcr2.webp",
+      "file": "fcr2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gargoyle",
+      "hash": "741090084",
+      "model": "gargoyle",
+      "imageUrl": "https://docs.fivem.net/vehicles/gargoyle.webp",
+      "file": "gargoyle.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hakuchou",
+      "hash": "1265391242",
+      "model": "hakuchou",
+      "imageUrl": "https://docs.fivem.net/vehicles/hakuchou.webp",
+      "file": "hakuchou.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hakuchou Drag",
+      "hash": "4039289119",
+      "model": "hakuchou2",
+      "imageUrl": "https://docs.fivem.net/vehicles/hakuchou2.webp",
+      "file": "hakuchou2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hexer",
+      "hash": "301427732",
+      "model": "hexer",
+      "imageUrl": "https://docs.fivem.net/vehicles/hexer.webp",
+      "file": "hexer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Innovation",
+      "hash": "4135840458",
+      "model": "innovation",
+      "imageUrl": "https://docs.fivem.net/vehicles/innovation.webp",
+      "file": "innovation.png",
+      "ok": true
+    },
+    {
+      "displayName": "Lectro",
+      "hash": "640818791",
+      "model": "lectro",
+      "imageUrl": "https://docs.fivem.net/vehicles/lectro.webp",
+      "file": "lectro.png",
+      "ok": true
+    },
+    {
+      "displayName": "Manchez",
+      "hash": "2771538552",
+      "model": "manchez",
+      "imageUrl": "https://docs.fivem.net/vehicles/manchez.webp",
+      "file": "manchez.png",
+      "ok": true
+    },
+    {
+      "displayName": "Manchez Scout",
+      "hash": "1086534307",
+      "model": "manchez2",
+      "imageUrl": "https://docs.fivem.net/vehicles/manchez2.webp",
+      "file": "manchez2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Manchez Scout C",
+      "hash": "1384502824",
+      "model": "manchez3",
+      "imageUrl": "https://docs.fivem.net/vehicles/manchez3.webp",
+      "file": "manchez3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nemesis",
+      "hash": "3660088182",
+      "model": "nemesis",
+      "imageUrl": "https://docs.fivem.net/vehicles/nemesis.webp",
+      "file": "nemesis.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightblade",
+      "hash": "2688780135",
+      "model": "nightblade",
+      "imageUrl": "https://docs.fivem.net/vehicles/nightblade.webp",
+      "file": "nightblade.png",
+      "ok": true
+    },
+    {
+      "displayName": "Oppressor",
+      "hash": "884483972",
+      "model": "oppressor",
+      "imageUrl": "https://docs.fivem.net/vehicles/oppressor.webp",
+      "file": "oppressor.png",
+      "ok": true
+    },
+    {
+      "displayName": "Oppressor Mk II",
+      "hash": "2069146067",
+      "model": "oppressor2",
+      "imageUrl": "https://docs.fivem.net/vehicles/oppressor2.webp",
+      "file": "oppressor2.png",
+      "ok": true
+    },
+    {
+      "displayName": "PCJ 600",
+      "hash": "3385765638",
+      "model": "pcj",
+      "imageUrl": "https://docs.fivem.net/vehicles/pcj.webp",
+      "file": "pcj.png",
+      "ok": true
+    },
+    {
+      "displayName": "Powersurge",
+      "hash": "2908631255",
+      "model": "powersurge",
+      "imageUrl": "https://docs.fivem.net/vehicles/powersurge.webp",
+      "file": "powersurge.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rat Bike",
+      "hash": "1873600305",
+      "model": "ratbike",
+      "imageUrl": "https://docs.fivem.net/vehicles/ratbike.webp",
+      "file": "ratbike.png",
+      "ok": true
+    },
+    {
+      "displayName": "Reever",
+      "hash": "1993851908",
+      "model": "reever",
+      "imageUrl": "https://docs.fivem.net/vehicles/reever.webp",
+      "file": "reever.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rampant Rocket",
+      "hash": "916547552",
+      "model": "rrocket",
+      "imageUrl": "https://docs.fivem.net/vehicles/rrocket.webp",
+      "file": "rrocket.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ruffian",
+      "hash": "3401388520",
+      "model": "ruffian",
+      "imageUrl": "https://docs.fivem.net/vehicles/ruffian.webp",
+      "file": "ruffian.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sanchez (livery)",
+      "hash": "788045382",
+      "model": "sanchez",
+      "imageUrl": "https://docs.fivem.net/vehicles/sanchez.webp",
+      "file": "sanchez.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sanchez",
+      "hash": "2841686334",
+      "model": "sanchez2",
+      "imageUrl": "https://docs.fivem.net/vehicles/sanchez2.webp",
+      "file": "sanchez2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sanctus",
+      "hash": "1491277511",
+      "model": "sanctus",
+      "imageUrl": "https://docs.fivem.net/vehicles/sanctus.webp",
+      "file": "sanctus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Shinobi",
+      "hash": "1353120668",
+      "model": "shinobi",
+      "imageUrl": "https://docs.fivem.net/vehicles/shinobi.webp",
+      "file": "shinobi.png",
+      "ok": true
+    },
+    {
+      "displayName": "Shotaro",
+      "hash": "3889340782",
+      "model": "shotaro",
+      "imageUrl": "https://docs.fivem.net/vehicles/shotaro.webp",
+      "file": "shotaro.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sovereign",
+      "hash": "743478836",
+      "model": "sovereign",
+      "imageUrl": "https://docs.fivem.net/vehicles/sovereign.webp",
+      "file": "sovereign.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stryder",
+      "hash": "301304410",
+      "model": "stryder",
+      "imageUrl": "https://docs.fivem.net/vehicles/stryder.webp",
+      "file": "stryder.png",
+      "ok": true
+    },
+    {
+      "displayName": "Thrust",
+      "hash": "1836027715",
+      "model": "thrust",
+      "imageUrl": "https://docs.fivem.net/vehicles/thrust.webp",
+      "file": "thrust.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vader",
+      "hash": "4154065143",
+      "model": "vader",
+      "imageUrl": "https://docs.fivem.net/vehicles/vader.webp",
+      "file": "vader.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vindicator",
+      "hash": "2941886209",
+      "model": "vindicator",
+      "imageUrl": "https://docs.fivem.net/vehicles/vindicator.webp",
+      "file": "vindicator.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vortex",
+      "hash": "3685342204",
+      "model": "vortex",
+      "imageUrl": "https://docs.fivem.net/vehicles/vortex.webp",
+      "file": "vortex.png",
+      "ok": true
+    },
+    {
+      "displayName": "Wolfsbane",
+      "hash": "3676349299",
+      "model": "wolfsbane",
+      "imageUrl": "https://docs.fivem.net/vehicles/wolfsbane.webp",
+      "file": "wolfsbane.png",
+      "ok": true
+    },
+    {
+      "displayName": "Zombie Bobber",
+      "hash": "3285698347",
+      "model": "zombiea",
+      "imageUrl": "https://docs.fivem.net/vehicles/zombiea.webp",
+      "file": "zombiea.png",
+      "ok": true
+    },
+    {
+      "displayName": "Zombie Chopper",
+      "hash": "3724934023",
+      "model": "zombieb",
+      "imageUrl": "https://docs.fivem.net/vehicles/zombieb.webp",
+      "file": "zombieb.png",
+      "ok": true
+    },
+    {
+      "displayName": "Injection",
+      "hash": "1126868326",
+      "model": "bfinjection",
+      "imageUrl": "https://docs.fivem.net/vehicles/bfinjection.webp",
+      "file": "bfinjection.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bifta",
+      "hash": "3945366167",
+      "model": "bifta",
+      "imageUrl": "https://docs.fivem.net/vehicles/bifta.webp",
+      "file": "bifta.png",
+      "ok": true
+    },
+    {
+      "displayName": "Blazer",
+      "hash": "2166734073",
+      "model": "blazer",
+      "imageUrl": "https://docs.fivem.net/vehicles/blazer.webp",
+      "file": "blazer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Blazer Lifeguard",
+      "hash": "4246935337",
+      "model": "blazer2",
+      "imageUrl": "https://docs.fivem.net/vehicles/blazer2.webp",
+      "file": "blazer2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hot Rod Blazer",
+      "hash": "3025077634",
+      "model": "blazer3",
+      "imageUrl": "https://docs.fivem.net/vehicles/blazer3.webp",
+      "file": "blazer3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Street Blazer",
+      "hash": "3854198872",
+      "model": "blazer4",
+      "imageUrl": "https://docs.fivem.net/vehicles/blazer4.webp",
+      "file": "blazer4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Blazer Aqua",
+      "hash": "2704629607",
+      "model": "blazer5",
+      "imageUrl": "https://docs.fivem.net/vehicles/blazer5.webp",
+      "file": "blazer5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bodhi",
+      "hash": "2859047862",
+      "model": "bodhi2",
+      "imageUrl": "https://docs.fivem.net/vehicles/bodhi2.webp",
+      "file": "bodhi2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Boor",
+      "hash": "996383885",
+      "model": "boor",
+      "imageUrl": "https://docs.fivem.net/vehicles/boor.webp",
+      "file": "boor.png",
+      "ok": true
+    },
+    {
+      "displayName": "Brawler",
+      "hash": "2815302597",
+      "model": "brawler",
+      "imageUrl": "https://docs.fivem.net/vehicles/brawler.webp",
+      "file": "brawler.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Bruiser",
+      "hash": "668439077",
+      "model": "bruiser",
+      "imageUrl": "https://docs.fivem.net/vehicles/bruiser.webp",
+      "file": "bruiser.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Bruiser",
+      "hash": "2600885406",
+      "model": "bruiser2",
+      "imageUrl": "https://docs.fivem.net/vehicles/bruiser2.webp",
+      "file": "bruiser2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Bruiser",
+      "hash": "2252616474",
+      "model": "bruiser3",
+      "imageUrl": "https://docs.fivem.net/vehicles/bruiser3.webp",
+      "file": "bruiser3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Brutus",
+      "hash": "2139203625",
+      "model": "brutus",
+      "imageUrl": "https://docs.fivem.net/vehicles/brutus.webp",
+      "file": "brutus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Brutus",
+      "hash": "2403970600",
+      "model": "brutus2",
+      "imageUrl": "https://docs.fivem.net/vehicles/brutus2.webp",
+      "file": "brutus2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Brutus",
+      "hash": "2038858402",
+      "model": "brutus3",
+      "imageUrl": "https://docs.fivem.net/vehicles/brutus3.webp",
+      "file": "brutus3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Caracara",
+      "hash": "1254014755",
+      "model": "caracara",
+      "imageUrl": "https://docs.fivem.net/vehicles/caracara.webp",
+      "file": "caracara.png",
+      "ok": true
+    },
+    {
+      "displayName": "Caracara 4x4",
+      "hash": "2945871676",
+      "model": "caracara2",
+      "imageUrl": "https://docs.fivem.net/vehicles/caracara2.webp",
+      "file": "caracara2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Duneloader",
+      "hash": "1770332643",
+      "model": "dloader",
+      "imageUrl": "https://docs.fivem.net/vehicles/dloader.webp",
+      "file": "dloader.png",
+      "ok": true
+    },
+    {
+      "displayName": "Draugur",
+      "hash": "3526730918",
+      "model": "draugur",
+      "imageUrl": "https://docs.fivem.net/vehicles/draugur.webp",
+      "file": "draugur.png",
+      "ok": true
+    },
+    {
+      "displayName": "Drift Walkton L35",
+      "hash": "-1982433631",
+      "model": "driftl352",
+      "imageUrl": "https://docs.fivem.net/vehicles/driftl352.webp",
+      "file": "driftl352.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dubsta 6x6",
+      "hash": "3057713523",
+      "model": "dubsta3",
+      "imageUrl": "https://docs.fivem.net/vehicles/dubsta3.webp",
+      "file": "dubsta3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dune Buggy",
+      "hash": "2633113103",
+      "model": "dune",
+      "imageUrl": "https://docs.fivem.net/vehicles/dune.webp",
+      "file": "dune.png",
+      "ok": true
+    },
+    {
+      "displayName": "Space Docker",
+      "hash": "534258863",
+      "model": "dune2",
+      "imageUrl": "https://docs.fivem.net/vehicles/dune2.webp",
+      "file": "dune2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dune FAV",
+      "hash": "1897744184",
+      "model": "dune3",
+      "imageUrl": "https://docs.fivem.net/vehicles/dune3.webp",
+      "file": "dune3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ramp Buggy",
+      "hash": "3467805257",
+      "model": "dune4",
+      "imageUrl": "https://docs.fivem.net/vehicles/dune4.webp",
+      "file": "dune4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ramp Buggy",
+      "hash": "3982671785",
+      "model": "dune5",
+      "imageUrl": "https://docs.fivem.net/vehicles/dune5.webp",
+      "file": "dune5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freecrawler",
+      "hash": "4240635011",
+      "model": "freecrawler",
+      "imageUrl": "https://docs.fivem.net/vehicles/freecrawler.webp",
+      "file": "freecrawler.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hellion",
+      "hash": "3932816511",
+      "model": "hellion",
+      "imageUrl": "https://docs.fivem.net/vehicles/hellion.webp",
+      "file": "hellion.png",
+      "ok": true
+    },
+    {
+      "displayName": "Insurgent Pick-Up",
+      "hash": "2434067162",
+      "model": "insurgent",
+      "imageUrl": "https://docs.fivem.net/vehicles/insurgent.webp",
+      "file": "insurgent.png",
+      "ok": true
+    },
+    {
+      "displayName": "Insurgent",
+      "hash": "2071877360",
+      "model": "insurgent2",
+      "imageUrl": "https://docs.fivem.net/vehicles/insurgent2.webp",
+      "file": "insurgent2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Insurgent Pick-Up Custom",
+      "hash": "2370534026",
+      "model": "insurgent3",
+      "imageUrl": "https://docs.fivem.net/vehicles/insurgent3.webp",
+      "file": "insurgent3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Kalahari",
+      "hash": "92612664",
+      "model": "kalahari",
+      "imageUrl": "https://docs.fivem.net/vehicles/kalahari.webp",
+      "file": "kalahari.png",
+      "ok": true
+    },
+    {
+      "displayName": "Kamacho",
+      "hash": "4173521127",
+      "model": "kamacho",
+      "imageUrl": "https://docs.fivem.net/vehicles/kamacho.webp",
+      "file": "kamacho.png",
+      "ok": true
+    },
+    {
+      "displayName": "Walton L35",
+      "hash": "2531292011",
+      "model": "l35",
+      "imageUrl": "https://docs.fivem.net/vehicles/l35.webp",
+      "file": "l35.png",
+      "ok": true
+    },
+    {
+      "displayName": "Walton L35 Stock",
+      "hash": "6911448275",
+      "model": "l352",
+      "imageUrl": "https://docs.fivem.net/vehicles/l352.webp",
+      "file": "l352.png",
+      "ok": true
+    },
+    {
+      "displayName": "Marshall",
+      "hash": "1233534620",
+      "model": "marshall",
+      "imageUrl": "https://docs.fivem.net/vehicles/marshall.webp",
+      "file": "marshall.png",
+      "ok": true
+    },
+    {
+      "displayName": "Menacer",
+      "hash": "2044532910",
+      "model": "menacer",
+      "imageUrl": "https://docs.fivem.net/vehicles/menacer.webp",
+      "file": "menacer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mesa",
+      "hash": "2230595153",
+      "model": "mesa3",
+      "imageUrl": "https://docs.fivem.net/vehicles/mesa3.webp",
+      "file": "mesa3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Monster",
+      "hash": "3449006043",
+      "model": "monster",
+      "imageUrl": "https://docs.fivem.net/vehicles/monster.webp",
+      "file": "monster.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Sasquatch",
+      "hash": "1721676810",
+      "model": "monster3",
+      "imageUrl": "https://docs.fivem.net/vehicles/monster3.webp",
+      "file": "monster3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Sasquatch",
+      "hash": "840387324",
+      "model": "monster4",
+      "imageUrl": "https://docs.fivem.net/vehicles/monster4.webp",
+      "file": "monster4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Sasquatch",
+      "hash": "3579220348",
+      "model": "monster5",
+      "imageUrl": "https://docs.fivem.net/vehicles/monster5.webp",
+      "file": "monster5.png",
+      "ok": true
+    },
+    {
+      "displayName": "MonstroCiti",
+      "hash": "802856453",
+      "model": "monstrociti",
+      "imageUrl": "https://docs.fivem.net/vehicles/monstrociti.webp",
+      "file": "monstrociti.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightshark",
+      "hash": "433954513",
+      "model": "nightshark",
+      "imageUrl": "https://docs.fivem.net/vehicles/nightshark.webp",
+      "file": "nightshark.png",
+      "ok": true
+    },
+    {
+      "displayName": "Outlaw",
+      "hash": "408825843",
+      "model": "outlaw",
+      "imageUrl": "https://docs.fivem.net/vehicles/outlaw.webp",
+      "file": "outlaw.png",
+      "ok": true
+    },
+    {
+      "displayName": "Patriot Mil-Spec",
+      "hash": "3624880708",
+      "model": "patriot3",
+      "imageUrl": "https://docs.fivem.net/vehicles/patriot3.webp",
+      "file": "patriot3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rancher XL",
+      "hash": "1645267888",
+      "model": "rancherxl",
+      "imageUrl": "https://docs.fivem.net/vehicles/rancherxl.webp",
+      "file": "rancherxl.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rancher XL",
+      "hash": "1933662059",
+      "model": "rancherxl2",
+      "imageUrl": "https://docs.fivem.net/vehicles/rancherxl2.webp",
+      "file": "rancherxl2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ratel",
+      "hash": "3758861739",
+      "model": "ratel",
+      "imageUrl": "https://docs.fivem.net/vehicles/ratel.webp",
+      "file": "ratel.png",
+      "ok": true
+    },
+    {
+      "displayName": "RC Bandito",
+      "hash": "4008920556",
+      "model": "rcbandito",
+      "imageUrl": "https://docs.fivem.net/vehicles/rcbandito.webp",
+      "file": "rcbandito.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rusty Rebel",
+      "hash": "3087195462",
+      "model": "rebel",
+      "imageUrl": "https://docs.fivem.net/vehicles/rebel.webp",
+      "file": "rebel.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rebel",
+      "hash": "2249373259",
+      "model": "rebel2",
+      "imageUrl": "https://docs.fivem.net/vehicles/rebel2.webp",
+      "file": "rebel2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Riata",
+      "hash": "2762269779",
+      "model": "riata",
+      "imageUrl": "https://docs.fivem.net/vehicles/riata.webp",
+      "file": "riata.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sandking XL",
+      "hash": "3105951696",
+      "model": "sandking",
+      "imageUrl": "https://docs.fivem.net/vehicles/sandking.webp",
+      "file": "sandking.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sandking SWB",
+      "hash": "989381445",
+      "model": "sandking2",
+      "imageUrl": "https://docs.fivem.net/vehicles/sandking2.webp",
+      "file": "sandking2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Technical",
+      "hash": "2198148358",
+      "model": "technical",
+      "imageUrl": "https://docs.fivem.net/vehicles/technical.webp",
+      "file": "technical.png",
+      "ok": true
+    },
+    {
+      "displayName": "Technical Aqua",
+      "hash": "1180875963",
+      "model": "technical2",
+      "imageUrl": "https://docs.fivem.net/vehicles/technical2.webp",
+      "file": "technical2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Technical Custom",
+      "hash": "1356124575",
+      "model": "technical3",
+      "imageUrl": "https://docs.fivem.net/vehicles/technical3.webp",
+      "file": "technical3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Terminus",
+      "hash": "167522317",
+      "model": "terminus",
+      "imageUrl": "https://docs.fivem.net/vehicles/terminus.webp",
+      "file": "terminus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trophy Truck",
+      "hash": "101905590",
+      "model": "trophytruck",
+      "imageUrl": "https://docs.fivem.net/vehicles/trophytruck.webp",
+      "file": "trophytruck.png",
+      "ok": true
+    },
+    {
+      "displayName": "Desert Raid",
+      "hash": "3631668194",
+      "model": "trophytruck2",
+      "imageUrl": "https://docs.fivem.net/vehicles/trophytruck2.webp",
+      "file": "trophytruck2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vagrant",
+      "hash": "740289177",
+      "model": "vagrant",
+      "imageUrl": "https://docs.fivem.net/vehicles/vagrant.webp",
+      "file": "vagrant.png",
+      "ok": true
+    },
+    {
+      "displayName": "Verus",
+      "hash": "298565713",
+      "model": "verus",
+      "imageUrl": "https://docs.fivem.net/vehicles/verus.webp",
+      "file": "verus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Winky",
+      "hash": "4084658662",
+      "model": "winky",
+      "imageUrl": "https://docs.fivem.net/vehicles/winky.webp",
+      "file": "winky.png",
+      "ok": true
+    },
+    {
+      "displayName": "Yosemite Rancher",
+      "hash": "67753863",
+      "model": "yosemite3",
+      "imageUrl": "https://docs.fivem.net/vehicles/yosemite3.webp",
+      "file": "yosemite3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Zhaba",
+      "hash": "1284356689",
+      "model": "zhaba",
+      "imageUrl": "https://docs.fivem.net/vehicles/zhaba.webp",
+      "file": "zhaba.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dozer",
+      "hash": "1886712733",
+      "model": "bulldozer",
+      "imageUrl": "https://docs.fivem.net/vehicles/bulldozer.webp",
+      "file": "bulldozer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cutter",
+      "hash": "3288047904",
+      "model": "cutter",
+      "imageUrl": "https://docs.fivem.net/vehicles/cutter.webp",
+      "file": "cutter.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dump",
+      "hash": "2164484578",
+      "model": "dump",
+      "imageUrl": "https://docs.fivem.net/vehicles/dump.webp",
+      "file": "dump.png",
+      "ok": true
+    },
+    {
+      "displayName": "Flatbed",
+      "hash": "1353720154",
+      "model": "flatbed",
+      "imageUrl": "https://docs.fivem.net/vehicles/flatbed.webp",
+      "file": "flatbed.png",
+      "ok": true
+    },
+    {
+      "displayName": "Custom Flatbed",
+      "hash": "-1882910943",
+      "model": "flatbed2",
+      "imageUrl": "https://docs.fivem.net/vehicles/flatbed2.webp",
+      "file": "flatbed2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Guardian",
+      "hash": "2186977100",
+      "model": "guardian",
+      "imageUrl": "https://docs.fivem.net/vehicles/guardian.webp",
+      "file": "guardian.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dock Handler",
+      "hash": "444583674",
+      "model": "handler",
+      "imageUrl": "https://docs.fivem.net/vehicles/handler.webp",
+      "file": "handler.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mixer",
+      "hash": "3510150843",
+      "model": "mixer",
+      "imageUrl": "https://docs.fivem.net/vehicles/mixer.webp",
+      "file": "mixer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mixer",
+      "hash": "475220373",
+      "model": "mixer2",
+      "imageUrl": "https://docs.fivem.net/vehicles/mixer2.webp",
+      "file": "mixer2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rubble",
+      "hash": "2589662668",
+      "model": "rubble",
+      "imageUrl": "https://docs.fivem.net/vehicles/rubble.webp",
+      "file": "rubble.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tipper",
+      "hash": "48339065",
+      "model": "tiptruck",
+      "imageUrl": "https://docs.fivem.net/vehicles/tiptruck.webp",
+      "file": "tiptruck.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tipper",
+      "hash": "3347205726",
+      "model": "tiptruck2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tiptruck2.webp",
+      "file": "tiptruck2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Airtug",
+      "hash": "1560980623",
+      "model": "airtug",
+      "imageUrl": "https://docs.fivem.net/vehicles/airtug.webp",
+      "file": "airtug.png",
+      "ok": true
+    },
+    {
+      "displayName": "Army Trailer",
+      "hash": "3087536137",
+      "model": "armytanker",
+      "imageUrl": "https://docs.fivem.net/vehicles/armytanker.webp",
+      "file": "armytanker.png",
+      "ok": true
+    },
+    {
+      "displayName": "Army Trailer",
+      "hash": "2818520053",
+      "model": "armytrailer",
+      "imageUrl": "https://docs.fivem.net/vehicles/armytrailer.webp",
+      "file": "armytrailer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Army Trailer",
+      "hash": "2657817814",
+      "model": "armytrailer2",
+      "imageUrl": "https://docs.fivem.net/vehicles/armytrailer2.webp",
+      "file": "armytrailer2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Baletrailer",
+      "hash": "3895125590",
+      "model": "baletrailer",
+      "imageUrl": "https://docs.fivem.net/vehicles/baletrailer.webp",
+      "file": "baletrailer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Boat Trailer",
+      "hash": "524108981",
+      "model": "boattrailer",
+      "imageUrl": "https://docs.fivem.net/vehicles/boattrailer.webp",
+      "file": "boattrailer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Boat Trailer",
+      "hash": "1835260592",
+      "model": "boattrailer2",
+      "imageUrl": "https://docs.fivem.net/vehicles/boattrailer2.webp",
+      "file": "boattrailer2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Boat Trailer",
+      "hash": "1539159908",
+      "model": "boattrailer3",
+      "imageUrl": "https://docs.fivem.net/vehicles/boattrailer3.webp",
+      "file": "boattrailer3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Caddy",
+      "hash": "1147287684",
+      "model": "caddy",
+      "imageUrl": "https://docs.fivem.net/vehicles/caddy.webp",
+      "file": "caddy.png",
+      "ok": true
+    },
+    {
+      "displayName": "Caddy",
+      "hash": "3757070668",
+      "model": "caddy2",
+      "imageUrl": "https://docs.fivem.net/vehicles/caddy2.webp",
+      "file": "caddy2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Caddy",
+      "hash": "3525819835",
+      "model": "caddy3",
+      "imageUrl": "https://docs.fivem.net/vehicles/caddy3.webp",
+      "file": "caddy3.png",
+      "ok": true
+    },
+    {
+      "displayName": "null",
+      "hash": "2154757102",
+      "model": "docktrailer",
+      "imageUrl": "https://docs.fivem.net/vehicles/docktrailer.webp",
+      "file": "docktrailer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Docktug",
+      "hash": "3410276810",
+      "model": "docktug",
+      "imageUrl": "https://docs.fivem.net/vehicles/docktug.webp",
+      "file": "docktug.png",
+      "ok": true
+    },
+    {
+      "displayName": "Forklift",
+      "hash": "1491375716",
+      "model": "forklift",
+      "imageUrl": "https://docs.fivem.net/vehicles/forklift.webp",
+      "file": "forklift.png",
+      "ok": true
+    },
+    {
+      "displayName": "null",
+      "hash": "3517691494",
+      "model": "freighttrailer",
+      "imageUrl": "https://docs.fivem.net/vehicles/freighttrailer.webp",
+      "file": "freighttrailer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Graintrailer",
+      "hash": "1019737494",
+      "model": "graintrailer",
+      "imageUrl": "https://docs.fivem.net/vehicles/graintrailer.webp",
+      "file": "graintrailer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Lawn Mower",
+      "hash": "1783355638",
+      "model": "mower",
+      "imageUrl": "https://docs.fivem.net/vehicles/mower.webp",
+      "file": "mower.png",
+      "ok": true
+    },
+    {
+      "displayName": "null",
+      "hash": "356391690",
+      "model": "proptrailer",
+      "imageUrl": "https://docs.fivem.net/vehicles/proptrailer.webp",
+      "file": "proptrailer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "390902130",
+      "model": "raketrailer",
+      "imageUrl": "https://docs.fivem.net/vehicles/raketrailer.webp",
+      "file": "raketrailer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ripley",
+      "hash": "3448987385",
+      "model": "ripley",
+      "imageUrl": "https://docs.fivem.net/vehicles/ripley.webp",
+      "file": "ripley.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sadler",
+      "hash": "3695398481",
+      "model": "sadler",
+      "imageUrl": "https://docs.fivem.net/vehicles/sadler.webp",
+      "file": "sadler.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sadler",
+      "hash": "734217681",
+      "model": "sadler2",
+      "imageUrl": "https://docs.fivem.net/vehicles/sadler2.webp",
+      "file": "sadler2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Scrap Truck",
+      "hash": "2594165727",
+      "model": "scrap",
+      "imageUrl": "https://docs.fivem.net/vehicles/scrap.webp",
+      "file": "scrap.png",
+      "ok": true
+    },
+    {
+      "displayName": "Slamtruck",
+      "hash": "3249056020",
+      "model": "slamtruck",
+      "imageUrl": "https://docs.fivem.net/vehicles/slamtruck.webp",
+      "file": "slamtruck.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "3564062519",
+      "model": "tanker",
+      "imageUrl": "https://docs.fivem.net/vehicles/tanker.webp",
+      "file": "tanker.png",
+      "ok": true
+    },
+    {
+      "displayName": "null",
+      "hash": "1956216962",
+      "model": "tanker2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tanker2.webp",
+      "file": "tanker2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tow Truck",
+      "hash": "2971866336",
+      "model": "towtruck",
+      "imageUrl": "https://docs.fivem.net/vehicles/towtruck.webp",
+      "file": "towtruck.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tow Truck",
+      "hash": "3852654278",
+      "model": "towtruck2",
+      "imageUrl": "https://docs.fivem.net/vehicles/towtruck2.webp",
+      "file": "towtruck2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tow Truck",
+      "hash": "3623402354",
+      "model": "towtruck3",
+      "imageUrl": "https://docs.fivem.net/vehicles/towtruck3.webp",
+      "file": "towtruck3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tow Truck",
+      "hash": "3392937977",
+      "model": "towtruck4",
+      "imageUrl": "https://docs.fivem.net/vehicles/towtruck4.webp",
+      "file": "towtruck4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "2078290630",
+      "model": "tr2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tr2.webp",
+      "file": "tr2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "1784254509",
+      "model": "tr3",
+      "imageUrl": "https://docs.fivem.net/vehicles/tr3.webp",
+      "file": "tr3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "2091594960",
+      "model": "tr4",
+      "imageUrl": "https://docs.fivem.net/vehicles/tr4.webp",
+      "file": "tr4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tractor",
+      "hash": "1641462412",
+      "model": "tractor",
+      "imageUrl": "https://docs.fivem.net/vehicles/tractor.webp",
+      "file": "tractor.png",
+      "ok": true
+    },
+    {
+      "displayName": "Fieldmaster",
+      "hash": "2218488798",
+      "model": "tractor2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tractor2.webp",
+      "file": "tractor2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Fieldmaster",
+      "hash": "1445631933",
+      "model": "tractor3",
+      "imageUrl": "https://docs.fivem.net/vehicles/tractor3.webp",
+      "file": "tractor3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mobile Operations Center",
+      "hash": "1502869817",
+      "model": "trailerlarge",
+      "imageUrl": "https://docs.fivem.net/vehicles/trailerlarge.webp",
+      "file": "trailerlarge.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "2016027501",
+      "model": "trailerlogs",
+      "imageUrl": "https://docs.fivem.net/vehicles/trailerlogs.webp",
+      "file": "trailerlogs.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "3417488910",
+      "model": "trailers",
+      "imageUrl": "https://docs.fivem.net/vehicles/trailers.webp",
+      "file": "trailers.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "2715434129",
+      "model": "trailers2",
+      "imageUrl": "https://docs.fivem.net/vehicles/trailers2.webp",
+      "file": "trailers2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "2236089197",
+      "model": "trailers3",
+      "imageUrl": "https://docs.fivem.net/vehicles/trailers3.webp",
+      "file": "trailers3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "3194418602",
+      "model": "trailers4",
+      "imageUrl": "https://docs.fivem.net/vehicles/trailers4.webp",
+      "file": "trailers4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "2960513480",
+      "model": "trailers5",
+      "imageUrl": "https://docs.fivem.net/vehicles/trailers5.webp",
+      "file": "trailers5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "712162987",
+      "model": "trailersmall",
+      "imageUrl": "https://docs.fivem.net/vehicles/trailersmall.webp",
+      "file": "trailersmall.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "2942498482",
+      "model": "trflat",
+      "imageUrl": "https://docs.fivem.net/vehicles/trflat.webp",
+      "file": "trflat.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "2524324030",
+      "model": "tvtrailer",
+      "imageUrl": "https://docs.fivem.net/vehicles/tvtrailer.webp",
+      "file": "tvtrailer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trailer",
+      "hash": "471034616",
+      "model": "tvtrailer2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tvtrailer2.webp",
+      "file": "tvtrailer2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Utility Truck",
+      "hash": "516990260",
+      "model": "utillitruck",
+      "imageUrl": "https://docs.fivem.net/vehicles/utillitruck.webp",
+      "file": "utillitruck.png",
+      "ok": true
+    },
+    {
+      "displayName": "Utility Truck",
+      "hash": "887537515",
+      "model": "utillitruck2",
+      "imageUrl": "https://docs.fivem.net/vehicles/utillitruck2.webp",
+      "file": "utillitruck2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Utility Truck",
+      "hash": "2132890591",
+      "model": "utillitruck3",
+      "imageUrl": "https://docs.fivem.net/vehicles/utillitruck3.webp",
+      "file": "utillitruck3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bison",
+      "hash": "4278019151",
+      "model": "bison",
+      "imageUrl": "https://docs.fivem.net/vehicles/bison.webp",
+      "file": "bison.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bison",
+      "hash": "2072156101",
+      "model": "bison2",
+      "imageUrl": "https://docs.fivem.net/vehicles/bison2.webp",
+      "file": "bison2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bison",
+      "hash": "1739845664",
+      "model": "bison3",
+      "imageUrl": "https://docs.fivem.net/vehicles/bison3.webp",
+      "file": "bison3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bobcat XL",
+      "hash": "1069929536",
+      "model": "bobcatxl",
+      "imageUrl": "https://docs.fivem.net/vehicles/bobcatxl.webp",
+      "file": "bobcatxl.png",
+      "ok": true
+    },
+    {
+      "displayName": "Boxville",
+      "hash": "2307837162",
+      "model": "boxville",
+      "imageUrl": "https://docs.fivem.net/vehicles/boxville.webp",
+      "file": "boxville.png",
+      "ok": true
+    },
+    {
+      "displayName": "Boxville",
+      "hash": "4061868990",
+      "model": "boxville2",
+      "imageUrl": "https://docs.fivem.net/vehicles/boxville2.webp",
+      "file": "boxville2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Boxville",
+      "hash": "121658888",
+      "model": "boxville3",
+      "imageUrl": "https://docs.fivem.net/vehicles/boxville3.webp",
+      "file": "boxville3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Boxville",
+      "hash": "444171386",
+      "model": "boxville4",
+      "imageUrl": "https://docs.fivem.net/vehicles/boxville4.webp",
+      "file": "boxville4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Armored Boxville",
+      "hash": "682434785",
+      "model": "boxville5",
+      "imageUrl": "https://docs.fivem.net/vehicles/boxville5.webp",
+      "file": "boxville5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Boxville (LSDS)",
+      "hash": "3452201761",
+      "model": "boxville6",
+      "imageUrl": "https://docs.fivem.net/vehicles/boxville6.webp",
+      "file": "boxville6.png",
+      "ok": true
+    },
+    {
+      "displayName": "Burrito",
+      "hash": "2948279460",
+      "model": "burrito",
+      "imageUrl": "https://docs.fivem.net/vehicles/burrito.webp",
+      "file": "burrito.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bugstars Burrito",
+      "hash": "3387490166",
+      "model": "burrito2",
+      "imageUrl": "https://docs.fivem.net/vehicles/burrito2.webp",
+      "file": "burrito2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Burrito",
+      "hash": "2551651283",
+      "model": "burrito3",
+      "imageUrl": "https://docs.fivem.net/vehicles/burrito3.webp",
+      "file": "burrito3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Burrito",
+      "hash": "893081117",
+      "model": "burrito4",
+      "imageUrl": "https://docs.fivem.net/vehicles/burrito4.webp",
+      "file": "burrito4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Burrito",
+      "hash": "1132262048",
+      "model": "burrito5",
+      "imageUrl": "https://docs.fivem.net/vehicles/burrito5.webp",
+      "file": "burrito5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Camper",
+      "hash": "1876516712",
+      "model": "camper",
+      "imageUrl": "https://docs.fivem.net/vehicles/camper.webp",
+      "file": "camper.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gang Burrito",
+      "hash": "2549763894",
+      "model": "gburrito",
+      "imageUrl": "https://docs.fivem.net/vehicles/gburrito.webp",
+      "file": "gburrito.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gang Burrito",
+      "hash": "296357396",
+      "model": "gburrito2",
+      "imageUrl": "https://docs.fivem.net/vehicles/gburrito2.webp",
+      "file": "gburrito2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Journey",
+      "hash": "4174679674",
+      "model": "journey",
+      "imageUrl": "https://docs.fivem.net/vehicles/journey.webp",
+      "file": "journey.png",
+      "ok": true
+    },
+    {
+      "displayName": "Journey II",
+      "hash": "2667889793",
+      "model": "journey2",
+      "imageUrl": "https://docs.fivem.net/vehicles/journey2.webp",
+      "file": "journey2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Minivan",
+      "hash": "3984502180",
+      "model": "minivan",
+      "imageUrl": "https://docs.fivem.net/vehicles/minivan.webp",
+      "file": "minivan.png",
+      "ok": true
+    },
+    {
+      "displayName": "Minivan Custom",
+      "hash": "3168702960",
+      "model": "minivan2",
+      "imageUrl": "https://docs.fivem.net/vehicles/minivan2.webp",
+      "file": "minivan2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Paradise",
+      "hash": "1488164764",
+      "model": "paradise",
+      "imageUrl": "https://docs.fivem.net/vehicles/paradise.webp",
+      "file": "paradise.png",
+      "ok": true
+    },
+    {
+      "displayName": "Pony",
+      "hash": "4175309224",
+      "model": "pony",
+      "imageUrl": "https://docs.fivem.net/vehicles/pony.webp",
+      "file": "pony.png",
+      "ok": true
+    },
+    {
+      "displayName": "Pony",
+      "hash": "943752001",
+      "model": "pony2",
+      "imageUrl": "https://docs.fivem.net/vehicles/pony2.webp",
+      "file": "pony2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rumpo",
+      "hash": "1162065741",
+      "model": "rumpo",
+      "imageUrl": "https://docs.fivem.net/vehicles/rumpo.webp",
+      "file": "rumpo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rumpo",
+      "hash": "2518351607",
+      "model": "rumpo2",
+      "imageUrl": "https://docs.fivem.net/vehicles/rumpo2.webp",
+      "file": "rumpo2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rumpo Custom",
+      "hash": "1475773103",
+      "model": "rumpo3",
+      "imageUrl": "https://docs.fivem.net/vehicles/rumpo3.webp",
+      "file": "rumpo3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Speedo",
+      "hash": "3484649228",
+      "model": "speedo",
+      "imageUrl": "https://docs.fivem.net/vehicles/speedo.webp",
+      "file": "speedo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Clown Van",
+      "hash": "728614474",
+      "model": "speedo2",
+      "imageUrl": "https://docs.fivem.net/vehicles/speedo2.webp",
+      "file": "speedo2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Speedo Custom",
+      "hash": "219613597",
+      "model": "speedo4",
+      "imageUrl": "https://docs.fivem.net/vehicles/speedo4.webp",
+      "file": "speedo4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Speedo Custom",
+      "hash": "4250167832",
+      "model": "speedo5",
+      "imageUrl": "https://docs.fivem.net/vehicles/speedo5.webp",
+      "file": "speedo5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Surfer",
+      "hash": "699456151",
+      "model": "surfer",
+      "imageUrl": "https://docs.fivem.net/vehicles/surfer.webp",
+      "file": "surfer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Surfer",
+      "hash": "2983726598",
+      "model": "surfer2",
+      "imageUrl": "https://docs.fivem.net/vehicles/surfer2.webp",
+      "file": "surfer2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Surfer Custom",
+      "hash": "3259477733",
+      "model": "surfer3",
+      "imageUrl": "https://docs.fivem.net/vehicles/surfer3.webp",
+      "file": "surfer3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Taco Van",
+      "hash": "1951180813",
+      "model": "taco",
+      "imageUrl": "https://docs.fivem.net/vehicles/taco.webp",
+      "file": "taco.png",
+      "ok": true
+    },
+    {
+      "displayName": "Youga",
+      "hash": "65402552",
+      "model": "youga",
+      "imageUrl": "https://docs.fivem.net/vehicles/youga.webp",
+      "file": "youga.png",
+      "ok": true
+    },
+    {
+      "displayName": "Youga Classic",
+      "hash": "1026149675",
+      "model": "youga2",
+      "imageUrl": "https://docs.fivem.net/vehicles/youga2.webp",
+      "file": "youga2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Youga Classic 4x4",
+      "hash": "1802742206",
+      "model": "youga3",
+      "imageUrl": "https://docs.fivem.net/vehicles/youga3.webp",
+      "file": "youga3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Youga Custom",
+      "hash": "1486521356",
+      "model": "youga4",
+      "imageUrl": "https://docs.fivem.net/vehicles/youga4.webp",
+      "file": "youga4.png",
+      "ok": true
+    },
+    {
+      "displayName": "BMX",
+      "hash": "1131912276",
+      "model": "bmx",
+      "imageUrl": "https://docs.fivem.net/vehicles/bmx.webp",
+      "file": "bmx.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cruiser",
+      "hash": "448402357",
+      "model": "cruiser",
+      "imageUrl": "https://docs.fivem.net/vehicles/cruiser.webp",
+      "file": "cruiser.png",
+      "ok": true
+    },
+    {
+      "displayName": "Fixter",
+      "hash": "3458454463",
+      "model": "fixter",
+      "imageUrl": "https://docs.fivem.net/vehicles/fixter.webp",
+      "file": "fixter.png",
+      "ok": true
+    },
+    {
+      "displayName": "Inductor",
+      "hash": "3397143273",
+      "model": "inductor",
+      "imageUrl": "https://docs.fivem.net/vehicles/inductor.webp",
+      "file": "inductor.png",
+      "ok": true
+    },
+    {
+      "displayName": "Junk Energy Inductor",
+      "hash": "2311345272",
+      "model": "inductor2",
+      "imageUrl": "https://docs.fivem.net/vehicles/inductor2.webp",
+      "file": "inductor2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Scorcher",
+      "hash": "4108429845",
+      "model": "scorcher",
+      "imageUrl": "https://docs.fivem.net/vehicles/scorcher.webp",
+      "file": "scorcher.png",
+      "ok": true
+    },
+    {
+      "displayName": "Whippet Race Bike",
+      "hash": "1127861609",
+      "model": "tribike",
+      "imageUrl": "https://docs.fivem.net/vehicles/tribike.webp",
+      "file": "tribike.png",
+      "ok": true
+    },
+    {
+      "displayName": "Endurex Race Bike",
+      "hash": "3061159916",
+      "model": "tribike2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tribike2.webp",
+      "file": "tribike2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tri-Cycles Race Bike",
+      "hash": "3894672200",
+      "model": "tribike3",
+      "imageUrl": "https://docs.fivem.net/vehicles/tribike3.webp",
+      "file": "tribike3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Avisa",
+      "hash": "2588363614",
+      "model": "avisa",
+      "imageUrl": "https://docs.fivem.net/vehicles/avisa.webp",
+      "file": "avisa.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dinghy",
+      "hash": "1033245328",
+      "model": "dinghy",
+      "imageUrl": "https://docs.fivem.net/vehicles/dinghy.webp",
+      "file": "dinghy.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dinghy",
+      "hash": "276773164",
+      "model": "dinghy2",
+      "imageUrl": "https://docs.fivem.net/vehicles/dinghy2.webp",
+      "file": "dinghy2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dinghy",
+      "hash": "509498602",
+      "model": "dinghy3",
+      "imageUrl": "https://docs.fivem.net/vehicles/dinghy3.webp",
+      "file": "dinghy3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dinghy",
+      "hash": "867467158",
+      "model": "dinghy4",
+      "imageUrl": "https://docs.fivem.net/vehicles/dinghy4.webp",
+      "file": "dinghy4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Weaponized Dinghy",
+      "hash": "3314393930",
+      "model": "dinghy5",
+      "imageUrl": "https://docs.fivem.net/vehicles/dinghy5.webp",
+      "file": "dinghy5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jetmax",
+      "hash": "861409633",
+      "model": "jetmax",
+      "imageUrl": "https://docs.fivem.net/vehicles/jetmax.webp",
+      "file": "jetmax.png",
+      "ok": true
+    },
+    {
+      "displayName": "Kosatka",
+      "hash": "1336872304",
+      "model": "kosatka",
+      "imageUrl": "https://docs.fivem.net/vehicles/kosatka.webp",
+      "file": "kosatka.png",
+      "ok": true
+    },
+    {
+      "displayName": "Longfin",
+      "hash": "1861786828",
+      "model": "longfin",
+      "imageUrl": "https://docs.fivem.net/vehicles/longfin.webp",
+      "file": "longfin.png",
+      "ok": true
+    },
+    {
+      "displayName": "Marquis",
+      "hash": "3251507587",
+      "model": "marquis",
+      "imageUrl": "https://docs.fivem.net/vehicles/marquis.webp",
+      "file": "marquis.png",
+      "ok": true
+    },
+    {
+      "displayName": "Kurtz 31 Patrol Boat",
+      "hash": "4018222598",
+      "model": "patrolboat",
+      "imageUrl": "https://docs.fivem.net/vehicles/patrolboat.webp",
+      "file": "patrolboat.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Predator",
+      "hash": "3806844075",
+      "model": "predator",
+      "imageUrl": "https://docs.fivem.net/vehicles/predator.webp",
+      "file": "predator.png",
+      "ok": true
+    },
+    {
+      "displayName": "Seashark",
+      "hash": "3264692260",
+      "model": "seashark",
+      "imageUrl": "https://docs.fivem.net/vehicles/seashark.webp",
+      "file": "seashark.png",
+      "ok": true
+    },
+    {
+      "displayName": "Seashark",
+      "hash": "3678636260",
+      "model": "seashark2",
+      "imageUrl": "https://docs.fivem.net/vehicles/seashark2.webp",
+      "file": "seashark2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Seashark",
+      "hash": "3983945033",
+      "model": "seashark3",
+      "imageUrl": "https://docs.fivem.net/vehicles/seashark3.webp",
+      "file": "seashark3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Speeder",
+      "hash": "231083307",
+      "model": "speeder",
+      "imageUrl": "https://docs.fivem.net/vehicles/speeder.webp",
+      "file": "speeder.png",
+      "ok": true
+    },
+    {
+      "displayName": "Speeder",
+      "hash": "437538602",
+      "model": "speeder2",
+      "imageUrl": "https://docs.fivem.net/vehicles/speeder2.webp",
+      "file": "speeder2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Squalo",
+      "hash": "400514754",
+      "model": "squalo",
+      "imageUrl": "https://docs.fivem.net/vehicles/squalo.webp",
+      "file": "squalo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Submersible",
+      "hash": "771711535",
+      "model": "submersible",
+      "imageUrl": "https://docs.fivem.net/vehicles/submersible.webp",
+      "file": "submersible.png",
+      "ok": true
+    },
+    {
+      "displayName": "Kraken",
+      "hash": "3228633070",
+      "model": "submersible2",
+      "imageUrl": "https://docs.fivem.net/vehicles/submersible2.webp",
+      "file": "submersible2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Suntrap",
+      "hash": "4012021193",
+      "model": "suntrap",
+      "imageUrl": "https://docs.fivem.net/vehicles/suntrap.webp",
+      "file": "suntrap.png",
+      "ok": true
+    },
+    {
+      "displayName": "Toro",
+      "hash": "1070967343",
+      "model": "toro",
+      "imageUrl": "https://docs.fivem.net/vehicles/toro.webp",
+      "file": "toro.png",
+      "ok": true
+    },
+    {
+      "displayName": "Toro",
+      "hash": "908897389",
+      "model": "toro2",
+      "imageUrl": "https://docs.fivem.net/vehicles/toro2.webp",
+      "file": "toro2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tropic",
+      "hash": "290013743",
+      "model": "tropic",
+      "imageUrl": "https://docs.fivem.net/vehicles/tropic.webp",
+      "file": "tropic.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tropic",
+      "hash": "1448677353",
+      "model": "tropic2",
+      "imageUrl": "https://docs.fivem.net/vehicles/tropic2.webp",
+      "file": "tropic2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tug",
+      "hash": "2194326579",
+      "model": "tug",
+      "imageUrl": "https://docs.fivem.net/vehicles/tug.webp",
+      "file": "tug.png",
+      "ok": true
+    },
+    {
+      "displayName": "Akula",
+      "hash": "1181327175",
+      "model": "akula",
+      "imageUrl": "https://docs.fivem.net/vehicles/akula.webp",
+      "file": "akula.png",
+      "ok": true
+    },
+    {
+      "displayName": "Annihilator",
+      "hash": "837858166",
+      "model": "annihilator",
+      "imageUrl": "https://docs.fivem.net/vehicles/annihilator.webp",
+      "file": "annihilator.png",
+      "ok": true
+    },
+    {
+      "displayName": "Annihilator Stealth",
+      "hash": "295054921",
+      "model": "annihilator2",
+      "imageUrl": "https://docs.fivem.net/vehicles/annihilator2.webp",
+      "file": "annihilator2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Buzzard Attack Chopper",
+      "hash": "788747387",
+      "model": "buzzard",
+      "imageUrl": "https://docs.fivem.net/vehicles/buzzard.webp",
+      "file": "buzzard.png",
+      "ok": true
+    },
+    {
+      "displayName": "Buzzard",
+      "hash": "745926877",
+      "model": "buzzard2",
+      "imageUrl": "https://docs.fivem.net/vehicles/buzzard2.webp",
+      "file": "buzzard2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cargobob",
+      "hash": "4244420235",
+      "model": "cargobob",
+      "imageUrl": "https://docs.fivem.net/vehicles/cargobob.webp",
+      "file": "cargobob.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cargobob",
+      "hash": "1621617168",
+      "model": "cargobob2",
+      "imageUrl": "https://docs.fivem.net/vehicles/cargobob2.webp",
+      "file": "cargobob2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cargobob",
+      "hash": "1394036463",
+      "model": "cargobob3",
+      "imageUrl": "https://docs.fivem.net/vehicles/cargobob3.webp",
+      "file": "cargobob3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cargobob",
+      "hash": "2025593404",
+      "model": "cargobob4",
+      "imageUrl": "https://docs.fivem.net/vehicles/cargobob4.webp",
+      "file": "cargobob4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Conada",
+      "hash": "3817135397",
+      "model": "conada",
+      "imageUrl": "https://docs.fivem.net/vehicles/conada.webp",
+      "file": "conada.png",
+      "ok": true
+    },
+    {
+      "displayName": "Weaponized Conada",
+      "hash": "2635962482",
+      "model": "conada2",
+      "imageUrl": "https://docs.fivem.net/vehicles/conada2.webp",
+      "file": "conada2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Frogger",
+      "hash": "744705981",
+      "model": "frogger",
+      "imageUrl": "https://docs.fivem.net/vehicles/frogger.webp",
+      "file": "frogger.png",
+      "ok": true
+    },
+    {
+      "displayName": "Frogger",
+      "hash": "1949211328",
+      "model": "frogger2",
+      "imageUrl": "https://docs.fivem.net/vehicles/frogger2.webp",
+      "file": "frogger2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Havok",
+      "hash": "2310691317",
+      "model": "havok",
+      "imageUrl": "https://docs.fivem.net/vehicles/havok.webp",
+      "file": "havok.png",
+      "ok": true
+    },
+    {
+      "displayName": "FH-1 Hunter",
+      "hash": "4252008158",
+      "model": "hunter",
+      "imageUrl": "https://docs.fivem.net/vehicles/hunter.webp",
+      "file": "hunter.png",
+      "ok": true
+    },
+    {
+      "displayName": "Maverick",
+      "hash": "2634305738",
+      "model": "maverick",
+      "imageUrl": "https://docs.fivem.net/vehicles/maverick.webp",
+      "file": "maverick.png",
+      "ok": true
+    },
+    {
+      "displayName": "Higgins Helitours Maverick",
+      "hash": "437619240",
+      "model": "maverick2",
+      "imageUrl": "https://docs.fivem.net/vehicles/maverick2.webp",
+      "file": "maverick2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Maverick",
+      "hash": "353883353",
+      "model": "polmav",
+      "imageUrl": "https://docs.fivem.net/vehicles/polmav.webp",
+      "file": "polmav.png",
+      "ok": true
+    },
+    {
+      "displayName": "Savage",
+      "hash": "4212341271",
+      "model": "savage",
+      "imageUrl": "https://docs.fivem.net/vehicles/savage.webp",
+      "file": "savage.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sea Sparrow",
+      "hash": "3568198617",
+      "model": "seasparrow",
+      "imageUrl": "https://docs.fivem.net/vehicles/seasparrow.webp",
+      "file": "seasparrow.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sparrow",
+      "hash": "1229411063",
+      "model": "seasparrow2",
+      "imageUrl": "https://docs.fivem.net/vehicles/seasparrow2.webp",
+      "file": "seasparrow2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sparrow",
+      "hash": "1593933419",
+      "model": "seasparrow3",
+      "imageUrl": "https://docs.fivem.net/vehicles/seasparrow3.webp",
+      "file": "seasparrow3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Skylift",
+      "hash": "1044954915",
+      "model": "skylift",
+      "imageUrl": "https://docs.fivem.net/vehicles/skylift.webp",
+      "file": "skylift.png",
+      "ok": true
+    },
+    {
+      "displayName": "SuperVolito",
+      "hash": "710198397",
+      "model": "supervolito",
+      "imageUrl": "https://docs.fivem.net/vehicles/supervolito.webp",
+      "file": "supervolito.png",
+      "ok": true
+    },
+    {
+      "displayName": "SuperVolito Carbon",
+      "hash": "2623428164",
+      "model": "supervolito2",
+      "imageUrl": "https://docs.fivem.net/vehicles/supervolito2.webp",
+      "file": "supervolito2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Swift",
+      "hash": "3955379698",
+      "model": "swift",
+      "imageUrl": "https://docs.fivem.net/vehicles/swift.webp",
+      "file": "swift.png",
+      "ok": true
+    },
+    {
+      "displayName": "Swift Deluxe",
+      "hash": "1075432268",
+      "model": "swift2",
+      "imageUrl": "https://docs.fivem.net/vehicles/swift2.webp",
+      "file": "swift2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Valkyrie",
+      "hash": "2694714877",
+      "model": "valkyrie",
+      "imageUrl": "https://docs.fivem.net/vehicles/valkyrie.webp",
+      "file": "valkyrie.png",
+      "ok": true
+    },
+    {
+      "displayName": "Valkyrie MOD.0",
+      "hash": "1543134283",
+      "model": "valkyrie2",
+      "imageUrl": "https://docs.fivem.net/vehicles/valkyrie2.webp",
+      "file": "valkyrie2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Volatus",
+      "hash": "2449479409",
+      "model": "volatus",
+      "imageUrl": "https://docs.fivem.net/vehicles/volatus.webp",
+      "file": "volatus.png",
+      "ok": true
+    },
+    {
+      "displayName": "RO-86 Alkonost",
+      "hash": "3929093893",
+      "model": "alkonost",
+      "imageUrl": "https://docs.fivem.net/vehicles/alkonost.webp",
+      "file": "alkonost.png",
+      "ok": true
+    },
+    {
+      "displayName": "Alpha-Z1",
+      "hash": "2771347558",
+      "model": "alphaz1",
+      "imageUrl": "https://docs.fivem.net/vehicles/alphaz1.webp",
+      "file": "alphaz1.png",
+      "ok": true
+    },
+    {
+      "displayName": "Avenger",
+      "hash": "2176659152",
+      "model": "avenger",
+      "imageUrl": "https://docs.fivem.net/vehicles/avenger.webp",
+      "file": "avenger.png",
+      "ok": true
+    },
+    {
+      "displayName": "Avenger",
+      "hash": "408970549",
+      "model": "avenger2",
+      "imageUrl": "https://docs.fivem.net/vehicles/avenger2.webp",
+      "file": "avenger2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Avenger",
+      "hash": "3868033424",
+      "model": "avenger3",
+      "imageUrl": "https://docs.fivem.net/vehicles/avenger3.webp",
+      "file": "avenger3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Avenger",
+      "hash": "4225674290",
+      "model": "avenger4",
+      "imageUrl": "https://docs.fivem.net/vehicles/avenger4.webp",
+      "file": "avenger4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Besra",
+      "hash": "1824333165",
+      "model": "besra",
+      "imageUrl": "https://docs.fivem.net/vehicles/besra.webp",
+      "file": "besra.png",
+      "ok": true
+    },
+    {
+      "displayName": "Atomic Blimp",
+      "hash": "4143991942",
+      "model": "blimp",
+      "imageUrl": "https://docs.fivem.net/vehicles/blimp.webp",
+      "file": "blimp.png",
+      "ok": true
+    },
+    {
+      "displayName": "Xero Blimp",
+      "hash": "3681241380",
+      "model": "blimp2",
+      "imageUrl": "https://docs.fivem.net/vehicles/blimp2.webp",
+      "file": "blimp2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Blimp",
+      "hash": "3987008919",
+      "model": "blimp3",
+      "imageUrl": "https://docs.fivem.net/vehicles/blimp3.webp",
+      "file": "blimp3.png",
+      "ok": true
+    },
+    {
+      "displayName": "RM-10 Bombushka",
+      "hash": "4262088844",
+      "model": "bombushka",
+      "imageUrl": "https://docs.fivem.net/vehicles/bombushka.webp",
+      "file": "bombushka.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cargo Plane",
+      "hash": "368211810",
+      "model": "cargoplane",
+      "imageUrl": "https://docs.fivem.net/vehicles/cargoplane.webp",
+      "file": "cargoplane.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cargo Plane",
+      "hash": "2336777441",
+      "model": "cargoplane2",
+      "imageUrl": "https://docs.fivem.net/vehicles/cargoplane2.webp",
+      "file": "cargoplane2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cuban 800",
+      "hash": "3650256867",
+      "model": "cuban800",
+      "imageUrl": "https://docs.fivem.net/vehicles/cuban800.webp",
+      "file": "cuban800.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dodo",
+      "hash": "3393804037",
+      "model": "dodo",
+      "imageUrl": "https://docs.fivem.net/vehicles/dodo.webp",
+      "file": "dodo.png",
+      "ok": true
+    },
+    {
+      "displayName": "Duster",
+      "hash": "970356638",
+      "model": "duster",
+      "imageUrl": "https://docs.fivem.net/vehicles/duster.webp",
+      "file": "duster.png",
+      "ok": true
+    },
+    {
+      "displayName": "Howard NX-25",
+      "hash": "3287439187",
+      "model": "howard",
+      "imageUrl": "https://docs.fivem.net/vehicles/howard.webp",
+      "file": "howard.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hydra",
+      "hash": "970385471",
+      "model": "hydra",
+      "imageUrl": "https://docs.fivem.net/vehicles/hydra.webp",
+      "file": "hydra.png",
+      "ok": true
+    },
+    {
+      "displayName": "Jet",
+      "hash": "1058115860",
+      "model": "jet",
+      "imageUrl": "https://docs.fivem.net/vehicles/jet.webp",
+      "file": "jet.png",
+      "ok": true
+    },
+    {
+      "displayName": "P-996 LAZER",
+      "hash": "3013282534",
+      "model": "lazer",
+      "imageUrl": "https://docs.fivem.net/vehicles/lazer.webp",
+      "file": "lazer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Luxor",
+      "hash": "621481054",
+      "model": "luxor",
+      "imageUrl": "https://docs.fivem.net/vehicles/luxor.webp",
+      "file": "luxor.png",
+      "ok": true
+    },
+    {
+      "displayName": "Luxor Deluxe",
+      "hash": "3080673438",
+      "model": "luxor2",
+      "imageUrl": "https://docs.fivem.net/vehicles/luxor2.webp",
+      "file": "luxor2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mammatus",
+      "hash": "2548391185",
+      "model": "mammatus",
+      "imageUrl": "https://docs.fivem.net/vehicles/mammatus.webp",
+      "file": "mammatus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ultralight",
+      "hash": "2531412055",
+      "model": "microlight",
+      "imageUrl": "https://docs.fivem.net/vehicles/microlight.webp",
+      "file": "microlight.png",
+      "ok": true
+    },
+    {
+      "displayName": "Miljet",
+      "hash": "165154707",
+      "model": "miljet",
+      "imageUrl": "https://docs.fivem.net/vehicles/miljet.webp",
+      "file": "miljet.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mogul",
+      "hash": "3545667823",
+      "model": "mogul",
+      "imageUrl": "https://docs.fivem.net/vehicles/mogul.webp",
+      "file": "mogul.png",
+      "ok": true
+    },
+    {
+      "displayName": "V-65 Molotok",
+      "hash": "1565978651",
+      "model": "molotok",
+      "imageUrl": "https://docs.fivem.net/vehicles/molotok.webp",
+      "file": "molotok.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nimbus",
+      "hash": "2999939664",
+      "model": "nimbus",
+      "imageUrl": "https://docs.fivem.net/vehicles/nimbus.webp",
+      "file": "nimbus.png",
+      "ok": true
+    },
+    {
+      "displayName": "P-45 Nokota",
+      "hash": "1036591958",
+      "model": "nokota",
+      "imageUrl": "https://docs.fivem.net/vehicles/nokota.webp",
+      "file": "nokota.png",
+      "ok": true
+    },
+    {
+      "displayName": "Pyro",
+      "hash": "2908775872",
+      "model": "pyro",
+      "imageUrl": "https://docs.fivem.net/vehicles/pyro.webp",
+      "file": "pyro.png",
+      "ok": true
+    },
+    {
+      "displayName": "F-160 Raiju",
+      "hash": "239897677",
+      "model": "raiju",
+      "imageUrl": "https://docs.fivem.net/vehicles/raiju.webp",
+      "file": "raiju.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rogue",
+      "hash": "3319621991",
+      "model": "rogue",
+      "imageUrl": "https://docs.fivem.net/vehicles/rogue.webp",
+      "file": "rogue.png",
+      "ok": true
+    },
+    {
+      "displayName": "Seabreeze",
+      "hash": "3902291871",
+      "model": "seabreeze",
+      "imageUrl": "https://docs.fivem.net/vehicles/seabreeze.webp",
+      "file": "seabreeze.png",
+      "ok": true
+    },
+    {
+      "displayName": "Shamal",
+      "hash": "3080461301",
+      "model": "shamal",
+      "imageUrl": "https://docs.fivem.net/vehicles/shamal.webp",
+      "file": "shamal.png",
+      "ok": true
+    },
+    {
+      "displayName": "LF-22 Starling",
+      "hash": "2594093022",
+      "model": "starling",
+      "imageUrl": "https://docs.fivem.net/vehicles/starling.webp",
+      "file": "starling.png",
+      "ok": true
+    },
+    {
+      "displayName": "Streamer216",
+      "hash": "191916658",
+      "model": "streamer216",
+      "imageUrl": "https://docs.fivem.net/vehicles/streamer216.webp",
+      "file": "streamer216.png",
+      "ok": true
+    },
+    {
+      "displayName": "B-11 Strikeforce",
+      "hash": "1692272545",
+      "model": "strikeforce",
+      "imageUrl": "https://docs.fivem.net/vehicles/strikeforce.webp",
+      "file": "strikeforce.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mallard",
+      "hash": "2172210288",
+      "model": "stunt",
+      "imageUrl": "https://docs.fivem.net/vehicles/stunt.webp",
+      "file": "stunt.png",
+      "ok": true
+    },
+    {
+      "displayName": "Titan",
+      "hash": "1981688531",
+      "model": "titan",
+      "imageUrl": "https://docs.fivem.net/vehicles/titan.webp",
+      "file": "titan.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tula",
+      "hash": "1043222410",
+      "model": "tula",
+      "imageUrl": "https://docs.fivem.net/vehicles/tula.webp",
+      "file": "tula.png",
+      "ok": true
+    },
+    {
+      "displayName": "Velum",
+      "hash": "2621610858",
+      "model": "velum",
+      "imageUrl": "https://docs.fivem.net/vehicles/velum.webp",
+      "file": "velum.png",
+      "ok": true
+    },
+    {
+      "displayName": "Velum 5-Seater",
+      "hash": "1077420264",
+      "model": "velum2",
+      "imageUrl": "https://docs.fivem.net/vehicles/velum2.webp",
+      "file": "velum2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vestra",
+      "hash": "1341619767",
+      "model": "vestra",
+      "imageUrl": "https://docs.fivem.net/vehicles/vestra.webp",
+      "file": "vestra.png",
+      "ok": true
+    },
+    {
+      "displayName": "Volatol",
+      "hash": "447548909",
+      "model": "volatol",
+      "imageUrl": "https://docs.fivem.net/vehicles/volatol.webp",
+      "file": "volatol.png",
+      "ok": true
+    },
+    {
+      "displayName": "Airport Bus",
+      "hash": "1283517198",
+      "model": "airbus",
+      "imageUrl": "https://docs.fivem.net/vehicles/airbus.webp",
+      "file": "airbus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Brickade",
+      "hash": "3989239879",
+      "model": "brickade",
+      "imageUrl": "https://docs.fivem.net/vehicles/brickade.webp",
+      "file": "brickade.png",
+      "ok": true
+    },
+    {
+      "displayName": "Brickade 6x6",
+      "hash": "2718380883",
+      "model": "brickade2",
+      "imageUrl": "https://docs.fivem.net/vehicles/brickade2.webp",
+      "file": "brickade2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bus",
+      "hash": "3581397346",
+      "model": "bus",
+      "imageUrl": "https://docs.fivem.net/vehicles/bus.webp",
+      "file": "bus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dashound",
+      "hash": "2222034228",
+      "model": "coach",
+      "imageUrl": "https://docs.fivem.net/vehicles/coach.webp",
+      "file": "coach.png",
+      "ok": true
+    },
+    {
+      "displayName": "Festival Bus",
+      "hash": "345756458",
+      "model": "pbus2",
+      "imageUrl": "https://docs.fivem.net/vehicles/pbus2.webp",
+      "file": "pbus2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Dune",
+      "hash": "2191146052",
+      "model": "rallytruck",
+      "imageUrl": "https://docs.fivem.net/vehicles/rallytruck.webp",
+      "file": "rallytruck.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rental Shuttle Bus",
+      "hash": "3196165219",
+      "model": "rentalbus",
+      "imageUrl": "https://docs.fivem.net/vehicles/rentalbus.webp",
+      "file": "rentalbus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Taxi",
+      "hash": "3338918751",
+      "model": "taxi",
+      "imageUrl": "https://docs.fivem.net/vehicles/taxi.webp",
+      "file": "taxi.png",
+      "ok": true
+    },
+    {
+      "displayName": "Tour Bus",
+      "hash": "1941029835",
+      "model": "tourbus",
+      "imageUrl": "https://docs.fivem.net/vehicles/tourbus.webp",
+      "file": "tourbus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trashmaster",
+      "hash": "1917016601",
+      "model": "trash",
+      "imageUrl": "https://docs.fivem.net/vehicles/trash.webp",
+      "file": "trash.png",
+      "ok": true
+    },
+    {
+      "displayName": "Trashmaster",
+      "hash": "3039269212",
+      "model": "trash2",
+      "imageUrl": "https://docs.fivem.net/vehicles/trash2.webp",
+      "file": "trash2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Wastelander",
+      "hash": "2382949506",
+      "model": "wastelander",
+      "imageUrl": "https://docs.fivem.net/vehicles/wastelander.webp",
+      "file": "wastelander.png",
+      "ok": true
+    },
+    {
+      "displayName": "Ambulance",
+      "hash": "1171614426",
+      "model": "ambulance",
+      "imageUrl": "https://docs.fivem.net/vehicles/ambulance.webp",
+      "file": "ambulance.png",
+      "ok": true
+    },
+    {
+      "displayName": "FIB",
+      "hash": "1127131465",
+      "model": "fbi",
+      "imageUrl": "https://docs.fivem.net/vehicles/fbi.webp",
+      "file": "fbi.png",
+      "ok": true
+    },
+    {
+      "displayName": "FIB",
+      "hash": "2647026068",
+      "model": "fbi2",
+      "imageUrl": "https://docs.fivem.net/vehicles/fbi2.webp",
+      "file": "fbi2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Fire Truck",
+      "hash": "1938952078",
+      "model": "firetruk",
+      "imageUrl": "https://docs.fivem.net/vehicles/firetruk.webp",
+      "file": "firetruk.png",
+      "ok": true
+    },
+    {
+      "displayName": "Lifeguard",
+      "hash": "469291905",
+      "model": "lguard",
+      "imageUrl": "https://docs.fivem.net/vehicles/lguard.webp",
+      "file": "lguard.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Prison Bus",
+      "hash": "2287941233",
+      "model": "pbus",
+      "imageUrl": "https://docs.fivem.net/vehicles/pbus.webp",
+      "file": "pbus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Gauntlet Interceptor",
+      "hash": "3061199846",
+      "model": "polgauntlet",
+      "imageUrl": "https://docs.fivem.net/vehicles/polgauntlet.webp",
+      "file": "polgauntlet.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Cruiser",
+      "hash": "2046537925",
+      "model": "police",
+      "imageUrl": "https://docs.fivem.net/vehicles/police.webp",
+      "file": "police.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Cruiser",
+      "hash": "2667966721",
+      "model": "police2",
+      "imageUrl": "https://docs.fivem.net/vehicles/police2.webp",
+      "file": "police2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Cruiser",
+      "hash": "1912215274",
+      "model": "police3",
+      "imageUrl": "https://docs.fivem.net/vehicles/police3.webp",
+      "file": "police3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Unmarked Cruiser",
+      "hash": "2321795001",
+      "model": "police4",
+      "imageUrl": "https://docs.fivem.net/vehicles/police4.webp",
+      "file": "police4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stanier LE Cruiser",
+      "hash": "2620582743",
+      "model": "police5",
+      "imageUrl": "https://docs.fivem.net/vehicles/police5.webp",
+      "file": "police5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Bike",
+      "hash": "4260343491",
+      "model": "policeb",
+      "imageUrl": "https://docs.fivem.net/vehicles/policeb.webp",
+      "file": "policeb.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Bike",
+      "hash": "-1921512137",
+      "model": "policeb2",
+      "imageUrl": "https://docs.fivem.net/vehicles/policeb2.webp",
+      "file": "policeb2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Rancher",
+      "hash": "2758042359",
+      "model": "policeold1",
+      "imageUrl": "https://docs.fivem.net/vehicles/policeold1.webp",
+      "file": "policeold1.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Roadcruiser",
+      "hash": "2515846680",
+      "model": "policeold2",
+      "imageUrl": "https://docs.fivem.net/vehicles/policeold2.webp",
+      "file": "policeold2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Transporter",
+      "hash": "456714581",
+      "model": "policet",
+      "imageUrl": "https://docs.fivem.net/vehicles/policet.webp",
+      "file": "policet.png",
+      "ok": true
+    },
+    {
+      "displayName": "Park Ranger",
+      "hash": "741586030",
+      "model": "pranger",
+      "imageUrl": "https://docs.fivem.net/vehicles/pranger.webp",
+      "file": "pranger.png",
+      "ok": true
+    },
+    {
+      "displayName": "Police Riot",
+      "hash": "3089277354",
+      "model": "riot",
+      "imageUrl": "https://docs.fivem.net/vehicles/riot.webp",
+      "file": "riot.png",
+      "ok": true
+    },
+    {
+      "displayName": "RCV",
+      "hash": "2601952180",
+      "model": "riot2",
+      "imageUrl": "https://docs.fivem.net/vehicles/riot2.webp",
+      "file": "riot2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sheriff Cruiser",
+      "hash": "2611638396",
+      "model": "sheriff",
+      "imageUrl": "https://docs.fivem.net/vehicles/sheriff.webp",
+      "file": "sheriff.png",
+      "ok": true
+    },
+    {
+      "displayName": "Sheriff SUV",
+      "hash": "1922257928",
+      "model": "sheriff2",
+      "imageUrl": "https://docs.fivem.net/vehicles/sheriff2.webp",
+      "file": "sheriff2.png",
+      "ok": true
+    },
+    {
+      "displayName": "APC",
+      "hash": "562680400",
+      "model": "apc",
+      "imageUrl": "https://docs.fivem.net/vehicles/apc.webp",
+      "file": "apc.png",
+      "ok": true
+    },
+    {
+      "displayName": "Barracks",
+      "hash": "3471458123",
+      "model": "barracks",
+      "imageUrl": "https://docs.fivem.net/vehicles/barracks.webp",
+      "file": "barracks.png",
+      "ok": true
+    },
+    {
+      "displayName": "Barracks Semi",
+      "hash": "1074326203",
+      "model": "barracks2",
+      "imageUrl": "https://docs.fivem.net/vehicles/barracks2.webp",
+      "file": "barracks2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Barracks",
+      "hash": "630371791",
+      "model": "barracks3",
+      "imageUrl": "https://docs.fivem.net/vehicles/barracks3.webp",
+      "file": "barracks3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Barrage",
+      "hash": "4081974053",
+      "model": "barrage",
+      "imageUrl": "https://docs.fivem.net/vehicles/barrage.webp",
+      "file": "barrage.png",
+      "ok": true
+    },
+    {
+      "displayName": "Chernobog",
+      "hash": "3602674979",
+      "model": "chernobog",
+      "imageUrl": "https://docs.fivem.net/vehicles/chernobog.webp",
+      "file": "chernobog.png",
+      "ok": true
+    },
+    {
+      "displayName": "Crusader",
+      "hash": "321739290",
+      "model": "crusader",
+      "imageUrl": "https://docs.fivem.net/vehicles/crusader.webp",
+      "file": "crusader.png",
+      "ok": true
+    },
+    {
+      "displayName": "Half-track",
+      "hash": "4262731174",
+      "model": "halftrack",
+      "imageUrl": "https://docs.fivem.net/vehicles/halftrack.webp",
+      "file": "halftrack.png",
+      "ok": true
+    },
+    {
+      "displayName": "TM-02 Khanjali",
+      "hash": "2859440138",
+      "model": "khanjali",
+      "imageUrl": "https://docs.fivem.net/vehicles/khanjali.webp",
+      "file": "khanjali.png",
+      "ok": true
+    },
+    {
+      "displayName": "Invade and Persuade Tank",
+      "hash": "3040635986",
+      "model": "minitank",
+      "imageUrl": "https://docs.fivem.net/vehicles/minitank.webp",
+      "file": "minitank.png",
+      "ok": true
+    },
+    {
+      "displayName": "Rhino Tank",
+      "hash": "782665360",
+      "model": "rhino",
+      "imageUrl": "https://docs.fivem.net/vehicles/rhino.webp",
+      "file": "rhino.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Scarab",
+      "hash": "3147997943",
+      "model": "scarab",
+      "imageUrl": "https://docs.fivem.net/vehicles/scarab.webp",
+      "file": "scarab.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Scarab",
+      "hash": "1542143200",
+      "model": "scarab2",
+      "imageUrl": "https://docs.fivem.net/vehicles/scarab2.webp",
+      "file": "scarab2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Scarab",
+      "hash": "3715219435",
+      "model": "scarab3",
+      "imageUrl": "https://docs.fivem.net/vehicles/scarab3.webp",
+      "file": "scarab3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Thruster",
+      "hash": "1489874736",
+      "model": "thruster",
+      "imageUrl": "https://docs.fivem.net/vehicles/thruster.webp",
+      "file": "thruster.png",
+      "ok": true
+    },
+    {
+      "displayName": "Anti-Aircraft Trailer",
+      "hash": "2413121211",
+      "model": "trailersmall2",
+      "imageUrl": "https://docs.fivem.net/vehicles/trailersmall2.webp",
+      "file": "trailersmall2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Vetir",
+      "hash": "2014313426",
+      "model": "vetir",
+      "imageUrl": "https://docs.fivem.net/vehicles/vetir.webp",
+      "file": "vetir.png",
+      "ok": true
+    },
+    {
+      "displayName": "Benson",
+      "hash": "2053223216",
+      "model": "benson",
+      "imageUrl": "https://docs.fivem.net/vehicles/benson.webp",
+      "file": "benson.png",
+      "ok": true
+    },
+    {
+      "displayName": "Benson (Cluckin' Bell)",
+      "hash": "728350375",
+      "model": "benson2",
+      "imageUrl": "https://docs.fivem.net/vehicles/benson2.webp",
+      "file": "benson2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Biff",
+      "hash": "850991848",
+      "model": "biff",
+      "imageUrl": "https://docs.fivem.net/vehicles/biff.webp",
+      "file": "biff.png",
+      "ok": true
+    },
+    {
+      "displayName": "Apocalypse Cerberus",
+      "hash": "3493417227",
+      "model": "cerberus",
+      "imageUrl": "https://docs.fivem.net/vehicles/cerberus.webp",
+      "file": "cerberus.png",
+      "ok": true
+    },
+    {
+      "displayName": "Future Shock Cerberus",
+      "hash": "679453769",
+      "model": "cerberus2",
+      "imageUrl": "https://docs.fivem.net/vehicles/cerberus2.webp",
+      "file": "cerberus2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Nightmare Cerberus",
+      "hash": "1909700336",
+      "model": "cerberus3",
+      "imageUrl": "https://docs.fivem.net/vehicles/cerberus3.webp",
+      "file": "cerberus3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hauler",
+      "hash": "1518533038",
+      "model": "hauler",
+      "imageUrl": "https://docs.fivem.net/vehicles/hauler.webp",
+      "file": "hauler.png",
+      "ok": true
+    },
+    {
+      "displayName": "Hauler Custom",
+      "hash": "387748548",
+      "model": "hauler2",
+      "imageUrl": "https://docs.fivem.net/vehicles/hauler2.webp",
+      "file": "hauler2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mule",
+      "hash": "904750859",
+      "model": "mule",
+      "imageUrl": "https://docs.fivem.net/vehicles/mule.webp",
+      "file": "mule.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mule",
+      "hash": "3244501995",
+      "model": "mule2",
+      "imageUrl": "https://docs.fivem.net/vehicles/mule2.webp",
+      "file": "mule2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mule",
+      "hash": "2242229361",
+      "model": "mule3",
+      "imageUrl": "https://docs.fivem.net/vehicles/mule3.webp",
+      "file": "mule3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mule Custom",
+      "hash": "1945374990",
+      "model": "mule4",
+      "imageUrl": "https://docs.fivem.net/vehicles/mule4.webp",
+      "file": "mule4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Mule",
+      "hash": "1343932732",
+      "model": "mule5",
+      "imageUrl": "https://docs.fivem.net/vehicles/mule5.webp",
+      "file": "mule5.png",
+      "ok": true
+    },
+    {
+      "displayName": "Packer",
+      "hash": "569305213",
+      "model": "packer",
+      "imageUrl": "https://docs.fivem.net/vehicles/packer.webp",
+      "file": "packer.png",
+      "ok": true
+    },
+    {
+      "displayName": "Phantom",
+      "hash": "2157618379",
+      "model": "phantom",
+      "imageUrl": "https://docs.fivem.net/vehicles/phantom.webp",
+      "file": "phantom.png",
+      "ok": true
+    },
+    {
+      "displayName": "Phantom Wedge",
+      "hash": "2645431192",
+      "model": "phantom2",
+      "imageUrl": "https://docs.fivem.net/vehicles/phantom2.webp",
+      "file": "phantom2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Phantom Custom",
+      "hash": "177270108",
+      "model": "phantom3",
+      "imageUrl": "https://docs.fivem.net/vehicles/phantom3.webp",
+      "file": "phantom3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Phantom",
+      "hash": "4165683409",
+      "model": "phantom4",
+      "imageUrl": "https://docs.fivem.net/vehicles/phantom4.webp",
+      "file": "phantom4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Pounder",
+      "hash": "2112052861",
+      "model": "pounder",
+      "imageUrl": "https://docs.fivem.net/vehicles/pounder.webp",
+      "file": "pounder.png",
+      "ok": true
+    },
+    {
+      "displayName": "Pounder Custom",
+      "hash": "1653666139",
+      "model": "pounder2",
+      "imageUrl": "https://docs.fivem.net/vehicles/pounder2.webp",
+      "file": "pounder2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stockade",
+      "hash": "1747439474",
+      "model": "stockade",
+      "imageUrl": "https://docs.fivem.net/vehicles/stockade.webp",
+      "file": "stockade.png",
+      "ok": true
+    },
+    {
+      "displayName": "Stockade",
+      "hash": "4080511798",
+      "model": "stockade3",
+      "imageUrl": "https://docs.fivem.net/vehicles/stockade3.webp",
+      "file": "stockade3.png",
+      "ok": true
+    },
+    {
+      "displayName": "Bobcat Security Stockade",
+      "hash": "1089816240",
+      "model": "stockade4",
+      "imageUrl": "https://docs.fivem.net/vehicles/stockade4.webp",
+      "file": "stockade4.png",
+      "ok": true
+    },
+    {
+      "displayName": "Terrorbyte",
+      "hash": "2306538597",
+      "model": "terbyte",
+      "imageUrl": "https://docs.fivem.net/vehicles/terbyte.webp",
+      "file": "terbyte.png",
+      "ok": true
+    },
+    {
+      "displayName": "Cable Car",
+      "hash": "3334677549",
+      "model": "cablecar",
+      "imageUrl": "https://docs.fivem.net/vehicles/cablecar.webp",
+      "file": "cablecar.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freight Train",
+      "hash": "1030400667",
+      "model": "freight",
+      "imageUrl": "https://docs.fivem.net/vehicles/freight.webp",
+      "file": "freight.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freight Train",
+      "hash": "3852738056",
+      "model": "freight2",
+      "imageUrl": "https://docs.fivem.net/vehicles/freight2.webp",
+      "file": "freight2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freight Train",
+      "hash": "184361638",
+      "model": "freightcar",
+      "imageUrl": "https://docs.fivem.net/vehicles/freightcar.webp",
+      "file": "freightcar.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freight Train",
+      "hash": "3186376089",
+      "model": "freightcar2",
+      "imageUrl": "https://docs.fivem.net/vehicles/freightcar2.webp",
+      "file": "freightcar2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freight Train",
+      "hash": "920453016",
+      "model": "freightcont1",
+      "imageUrl": "https://docs.fivem.net/vehicles/freightcont1.webp",
+      "file": "freightcont1.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freight Train",
+      "hash": "240201337",
+      "model": "freightcont2",
+      "imageUrl": "https://docs.fivem.net/vehicles/freightcont2.webp",
+      "file": "freightcont2.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freight Train",
+      "hash": "642617954",
+      "model": "freightgrain",
+      "imageUrl": "https://docs.fivem.net/vehicles/freightgrain.webp",
+      "file": "freightgrain.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freight Train",
+      "hash": "868868440",
+      "model": "metrotrain",
+      "imageUrl": "https://docs.fivem.net/vehicles/metrotrain.webp",
+      "file": "metrotrain.png",
+      "ok": true
+    },
+    {
+      "displayName": "Freight Train",
+      "hash": "586013744",
+      "model": "tankercar",
+      "imageUrl": "https://docs.fivem.net/vehicles/tankercar.webp",
+      "file": "tankercar.png",
+      "ok": true
+    },
+    {
+      "displayName": "PR4",
+      "hash": "340154634",
+      "model": "formula",
+      "imageUrl": "https://docs.fivem.net/vehicles/formula.webp",
+      "file": "formula.png",
+      "ok": true
+    },
+    {
+      "displayName": "R88",
+      "hash": "2334210311",
+      "model": "formula2",
+      "imageUrl": "https://docs.fivem.net/vehicles/formula2.webp",
+      "file": "formula2.png",
+      "ok": true
+    },
+    {
+      "displayName": "BR8",
+      "hash": "1492612435",
+      "model": "openwheel1",
+      "imageUrl": "https://docs.fivem.net/vehicles/openwheel1.webp",
+      "file": "openwheel1.png",
+      "ok": true
+    },
+    {
+      "displayName": "DR1",
+      "hash": "1181339704",
+      "model": "openwheel2",
+      "imageUrl": "https://docs.fivem.net/vehicles/openwheel2.webp",
+      "file": "openwheel2.png",
+      "ok": true
+    }
+  ]
+}
